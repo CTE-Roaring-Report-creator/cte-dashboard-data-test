@@ -1,6 +1,6 @@
 {
   "key": "curriculum-intro-tech",
-  "updatedAt": "2026-08-24T03:30:11.450Z",
+  "updatedAt": "2026-08-24T03:31:19.325Z",
   "device": "Personal",
   "value": {
     "units": [
@@ -40,7 +40,7 @@
             "links": [],
             "notes": "",
             "bellRingers": [
-              "Yup, it works.",
+              "Or does it...",
               ""
             ]
           },
