@@ -1,0 +1,516 @@
+{
+  "key": "lesson-mapping-media-b",
+  "updatedAt": "2026-08-23T22:18:24.329Z",
+  "device": "Home",
+  "value": {
+    "mapping": {
+      "2026-08-24": {
+        "type": "lesson",
+        "lessonId": "8r42bp0r",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-08-25": {
+        "type": "lesson",
+        "lessonId": "8r42bp0r",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-08-26": {
+        "type": "lesson",
+        "lessonId": "u2nssipc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-08-27": {
+        "type": "lesson",
+        "lessonId": "u2nssipc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-08-28": {
+        "type": "lesson",
+        "lessonId": "dzcruzja",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-08-31": {
+        "type": "lesson",
+        "lessonId": "dzcruzja",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-09-01": {
+        "type": "lesson",
+        "lessonId": "px4k0wht",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-09-02": {
+        "type": "lesson",
+        "lessonId": "px4k0wht",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-09-03": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 1,
+        "totalDays": 6
+      },
+      "2026-09-04": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 2,
+        "totalDays": 6
+      },
+      "2026-09-07": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 3,
+        "totalDays": 6
+      },
+      "2026-09-08": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 4,
+        "totalDays": 6
+      },
+      "2026-09-09": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 5,
+        "totalDays": 6
+      },
+      "2026-09-10": {
+        "type": "lesson",
+        "lessonId": "zu4upcwc",
+        "unitId": "jl6mcv4r",
+        "dayIndex": 6,
+        "totalDays": 6
+      },
+      "2026-09-11": {
+        "type": "lesson",
+        "lessonId": "olw02tqa",
+        "unitId": "1b5orux8",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-09-14": {
+        "type": "lesson",
+        "lessonId": "olw02tqa",
+        "unitId": "1b5orux8",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-09-15": {
+        "type": "lesson",
+        "lessonId": "tav0enmx",
+        "unitId": "1b5orux8",
+        "dayIndex": 1,
+        "totalDays": 4
+      },
+      "2026-09-16": {
+        "type": "lesson",
+        "lessonId": "tav0enmx",
+        "unitId": "1b5orux8",
+        "dayIndex": 2,
+        "totalDays": 4
+      },
+      "2026-09-17": {
+        "type": "lesson",
+        "lessonId": "tav0enmx",
+        "unitId": "1b5orux8",
+        "dayIndex": 3,
+        "totalDays": 4
+      },
+      "2026-09-18": {
+        "type": "lesson",
+        "lessonId": "tav0enmx",
+        "unitId": "1b5orux8",
+        "dayIndex": 4,
+        "totalDays": 4
+      },
+      "2026-09-21": {
+        "type": "lesson",
+        "lessonId": "vm4imljb",
+        "unitId": "1b5orux8",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-09-22": {
+        "type": "lesson",
+        "lessonId": "vm4imljb",
+        "unitId": "1b5orux8",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-09-23": {
+        "type": "lesson",
+        "lessonId": "mid56547",
+        "unitId": "1b5orux8",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-09-24": {
+        "type": "lesson",
+        "lessonId": "mid56547",
+        "unitId": "1b5orux8",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-09-25": {
+        "type": "lesson",
+        "lessonId": "rd4ajey0",
+        "unitId": "1b5orux8",
+        "dayIndex": 1,
+        "totalDays": 5
+      },
+      "2026-09-28": {
+        "type": "lesson",
+        "lessonId": "rd4ajey0",
+        "unitId": "1b5orux8",
+        "dayIndex": 2,
+        "totalDays": 5
+      },
+      "2026-09-29": {
+        "type": "lesson",
+        "lessonId": "rd4ajey0",
+        "unitId": "1b5orux8",
+        "dayIndex": 3,
+        "totalDays": 5
+      },
+      "2026-09-30": {
+        "type": "lesson",
+        "lessonId": "rd4ajey0",
+        "unitId": "1b5orux8",
+        "dayIndex": 4,
+        "totalDays": 5
+      },
+      "2026-10-01": {
+        "type": "lesson",
+        "lessonId": "rd4ajey0",
+        "unitId": "1b5orux8",
+        "dayIndex": 5,
+        "totalDays": 5
+      },
+      "2026-10-02": {
+        "type": "lesson",
+        "lessonId": "03wsi8tv",
+        "unitId": "g7p3r28l",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-10-05": {
+        "type": "lesson",
+        "lessonId": "03wsi8tv",
+        "unitId": "g7p3r28l",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-10-06": {
+        "type": "lesson",
+        "lessonId": "trddi890",
+        "unitId": "g7p3r28l",
+        "dayIndex": 1,
+        "totalDays": 3
+      },
+      "2026-10-07": {
+        "type": "lesson",
+        "lessonId": "trddi890",
+        "unitId": "g7p3r28l",
+        "dayIndex": 2,
+        "totalDays": 3
+      },
+      "2026-10-08": {
+        "type": "lesson",
+        "lessonId": "trddi890",
+        "unitId": "g7p3r28l",
+        "dayIndex": 3,
+        "totalDays": 3
+      },
+      "2026-10-09": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 1,
+        "totalDays": 8
+      },
+      "2026-10-12": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 2,
+        "totalDays": 8
+      },
+      "2026-10-13": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 3,
+        "totalDays": 8
+      },
+      "2026-10-14": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 4,
+        "totalDays": 8
+      },
+      "2026-10-15": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 5,
+        "totalDays": 8
+      },
+      "2026-10-16": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 6,
+        "totalDays": 8
+      },
+      "2026-10-19": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 7,
+        "totalDays": 8
+      },
+      "2026-10-20": {
+        "type": "lesson",
+        "lessonId": "u9g5xobh",
+        "unitId": "g7p3r28l",
+        "dayIndex": 8,
+        "totalDays": 8
+      },
+      "2026-10-21": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 1,
+        "totalDays": 6
+      },
+      "2026-10-22": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 2,
+        "totalDays": 6
+      },
+      "2026-10-23": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 3,
+        "totalDays": 6
+      },
+      "2026-10-26": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 4,
+        "totalDays": 6
+      },
+      "2026-10-27": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 5,
+        "totalDays": 6
+      },
+      "2026-10-28": {
+        "type": "lesson",
+        "lessonId": "bl0g8c6i",
+        "unitId": "g7p3r28l",
+        "dayIndex": 6,
+        "totalDays": 6
+      },
+      "2026-10-29": {
+        "type": "lesson",
+        "lessonId": "tik9rlxz",
+        "unitId": "g7p3r28l",
+        "dayIndex": 1,
+        "totalDays": 4
+      },
+      "2026-10-30": {
+        "type": "lesson",
+        "lessonId": "tik9rlxz",
+        "unitId": "g7p3r28l",
+        "dayIndex": 2,
+        "totalDays": 4
+      },
+      "2026-11-02": {
+        "type": "lesson",
+        "lessonId": "tik9rlxz",
+        "unitId": "g7p3r28l",
+        "dayIndex": 3,
+        "totalDays": 4
+      },
+      "2026-11-03": {
+        "type": "lesson",
+        "lessonId": "tik9rlxz",
+        "unitId": "g7p3r28l",
+        "dayIndex": 4,
+        "totalDays": 4
+      },
+      "2026-11-04": {
+        "type": "lesson",
+        "lessonId": "vpiy6ls4",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 1,
+        "totalDays": 2
+      },
+      "2026-11-05": {
+        "type": "lesson",
+        "lessonId": "vpiy6ls4",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 2,
+        "totalDays": 2
+      },
+      "2026-11-06": {
+        "type": "lesson",
+        "lessonId": "x4wzy2ws",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 1,
+        "totalDays": 3
+      },
+      "2026-11-09": {
+        "type": "lesson",
+        "lessonId": "x4wzy2ws",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 2,
+        "totalDays": 3
+      },
+      "2026-11-10": {
+        "type": "lesson",
+        "lessonId": "x4wzy2ws",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 3,
+        "totalDays": 3
+      },
+      "2026-11-11": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 1,
+        "totalDays": 6
+      },
+      "2026-11-12": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 2,
+        "totalDays": 6
+      },
+      "2026-11-13": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 3,
+        "totalDays": 6
+      },
+      "2026-11-16": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 4,
+        "totalDays": 6
+      },
+      "2026-11-17": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 5,
+        "totalDays": 6
+      },
+      "2026-11-18": {
+        "type": "lesson",
+        "lessonId": "05yhxt2y",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 6,
+        "totalDays": 6
+      },
+      "2026-11-19": {
+        "type": "lesson",
+        "lessonId": "xp5743wr",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 1,
+        "totalDays": 5
+      },
+      "2026-11-20": {
+        "type": "lesson",
+        "lessonId": "xp5743wr",
+        "unitId": "mu4kjcqm",
+        "dayIndex": 2,
+        "totalDays": 5
+      }
+    },
+    "overflow": [
+      {
+        "lessonId": "xp5743wr",
+        "unitId": "mu4kjcqm",
+        "daysNeeded": 3
+      },
+      {
+        "lessonId": "s7xhljet",
+        "unitId": "mu4kjcqm",
+        "daysNeeded": 12
+      },
+      {
+        "lessonId": "0zm6c41r",
+        "unitId": "mu4kjcqm",
+        "daysNeeded": 8
+      },
+      {
+        "lessonId": "e5vfhwg4",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 2
+      },
+      {
+        "lessonId": "rt26tvy4",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 2
+      },
+      {
+        "lessonId": "dwfhj9e6",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 5
+      },
+      {
+        "lessonId": "cqpulgo9",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 8
+      },
+      {
+        "lessonId": "1en9j2ip",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 12
+      },
+      {
+        "lessonId": "k68fsfwd",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 5
+      },
+      {
+        "lessonId": "0gqn2fhr",
+        "unitId": "ahgb9n85",
+        "daysNeeded": 2
+      }
+    ]
+  }
+}
