@@ -1,18 +1,18 @@
 {
   "key": "curriculum-media-a",
-  "updatedAt": "2026-08-24T03:16:35.676Z",
-  "device": "Home",
+  "updatedAt": "2026-08-23T22:20:41.797Z",
+  "device": "Personal",
   "value": {
     "units": [
       {
-        "id": "qiv28lpx",
+        "id": "j69q19w7",
         "title": "Visual Language",
         "semester": "Fall",
         "essentialQuestion": "How does the choice of shot type, angle, and camera movement shape what an audience feels?",
         "description": "Core focus: Shot types, camera angles, camera movement. Students build the foundational vocabulary of cinematography while immediately applying it in production.",
         "lessons": [
           {
-            "id": "lng1c29y",
+            "id": "7zyva749",
             "title": "Orientation, WeVideo & Premiere Setup, Syllabus",
             "type": "instruction",
             "objective": "Set up production tools, understand course expectations, and form project groups.",
@@ -22,14 +22,10 @@
               "AME 9.0 – Technology"
             ],
             "links": [],
-            "notes": "",
-            "bellRingers": [
-              "TEst ONe",
-              ""
-            ]
+            "notes": ""
           },
           {
-            "id": "6or9vw4p",
+            "id": "y69p2u24",
             "title": "Shot Types (ELS, LS, MS, CU, ECU)",
             "type": "instruction",
             "objective": "Identify and demonstrate the five primary shot types and explain how each affects viewer emotion.",
@@ -42,7 +38,7 @@
             "notes": "Use final scene from The Good, the Bad & the Ugly. Three-way gunfight shows ELS→ECU progression perfectly."
           },
           {
-            "id": "lpnq9vrn",
+            "id": "yaz6pajq",
             "title": "Camera Angles (Eye Level, Low, High, Dutch Tilt)",
             "type": "instruction",
             "objective": "Explain how camera angle conveys power, vulnerability, and tension in film.",
@@ -55,7 +51,7 @@
             "notes": "Stranger Things (eye level), Avengers (low/high), Iron Man (Dutch tilt), Lion King (low angle)."
           },
           {
-            "id": "875ygqbq",
+            "id": "av4q4k5p",
             "title": "Camera Movements (Static, Pan, Tilt, Dolly, Truck)",
             "type": "instruction",
             "objective": "Demonstrate five camera movements and explain the emotional effect of each.",
@@ -68,7 +64,7 @@
             "notes": "Moonrise Kingdom for truck, Inception for Dutch tilt. Connect to NxNW crop duster for dolly examples."
           },
           {
-            "id": "4eocives",
+            "id": "uuwbmkym",
             "title": "Review & Assessment – Shots/Angles/Movements Quiz",
             "type": "assessment",
             "objective": "Demonstrate mastery of shot types, angles, and camera movements through written and visual assessment.",
@@ -80,7 +76,7 @@
             "notes": ""
           },
           {
-            "id": "u46r1a0g",
+            "id": "jw8u670i",
             "title": "Intro Video Project",
             "type": "project",
             "objective": "Create a short personal introduction video using WeVideo, practicing basic editing techniques.",
@@ -94,7 +90,7 @@
             "notes": ""
           },
           {
-            "id": "mkdnkz3p",
+            "id": "sy528jss",
             "title": "Storytelling Through Shots Project (Group)",
             "type": "project",
             "objective": "Create a 1–2 minute short film using all five shot types to tell a story without dialogue.",
@@ -110,14 +106,14 @@
         ]
       },
       {
-        "id": "1p0hku1c",
+        "id": "7denivv1",
         "title": "Production Fundamentals",
         "semester": "Fall",
         "essentialQuestion": "How does every production decision — from script to final cut — serve the story's purpose?",
         "description": "Core focus: Scriptwriting, storyboarding, interviewing, editing, audio, lighting. Students apply visual language skills to structured production work while deepening their technical toolkit.",
         "lessons": [
           {
-            "id": "swgmdqas",
+            "id": "yz0094o4",
             "title": "Editing Techniques – Cuts, Transitions, Pacing",
             "type": "instruction",
             "objective": "Explain how different editing techniques (cuts, transitions, pacing) shape viewer emotion and narrative flow.",
@@ -130,7 +126,7 @@
             "notes": "Needs slides created. Priority to create. Use NxNW crop duster scene as primary example."
           },
           {
-            "id": "s8wthn6t",
+            "id": "wlz5pw20",
             "title": "B-Roll Competition",
             "type": "project",
             "objective": "Capture 10+ B-roll shots on campus demonstrating variety of angles and movements, then edit into a 1-minute video.",
@@ -143,7 +139,7 @@
             "notes": "No faces rule. Variety of angles/movements required. Class vote for best videos."
           },
           {
-            "id": "lejtnjbr",
+            "id": "dhuvtlkl",
             "title": "Scriptwriting & Teleprompter Writing",
             "type": "instruction",
             "objective": "Write broadcast-ready scripts using teleprompter formatting and conversational language.",
@@ -156,7 +152,7 @@
             "notes": ""
           },
           {
-            "id": "h7m2v8v7",
+            "id": "aqns88jp",
             "title": "Audio & Sound Design",
             "type": "instruction",
             "objective": "Apply proper microphone technique, audio level standards, and ambient sound principles to video production.",
@@ -169,7 +165,7 @@
             "notes": ""
           },
           {
-            "id": "7r6jx58x",
+            "id": "szcck7yw",
             "title": "Storyboarding",
             "type": "instruction",
             "objective": "Create a professional storyboard using panel notation and shot descriptions for pre-production planning.",
@@ -182,7 +178,7 @@
             "notes": ""
           },
           {
-            "id": "t8oma3ku",
+            "id": "gu1p6t3e",
             "title": "Rule of Thirds & Interview Framing",
             "type": "instruction",
             "objective": "Apply the rule of thirds to on-camera interview framing and explain why long-sided interviews are standard.",
@@ -194,7 +190,7 @@
             "notes": ""
           },
           {
-            "id": "t5j2g52z",
+            "id": "isut42m5",
             "title": "Interviewing Techniques",
             "type": "instruction",
             "objective": "Demonstrate open-ended questioning, active listening, and follow-up techniques in a video interview context.",
@@ -207,7 +203,7 @@
             "notes": ""
           },
           {
-            "id": "seslwttw",
+            "id": "hm0jze6k",
             "title": "Peer & Teacher Interview Projects",
             "type": "project",
             "objective": "Produce professional 2–3 minute interviews with both on-camera and long-sided framing, including B-roll.",
@@ -221,7 +217,7 @@
             "notes": "6–7 questions required. 1 follow-up required. B-roll required. Transitions required."
           },
           {
-            "id": "uccslzth",
+            "id": "bd042w5x",
             "title": "Lighting Basics – Three-Point Lighting",
             "type": "instruction",
             "objective": "Explain and set up three-point lighting, comparing natural and artificial light for mood and shadow.",
@@ -234,7 +230,7 @@
             "notes": ""
           },
           {
-            "id": "njyff55u",
+            "id": "76p4441d",
             "title": "Genre Study – Introduction to Genre Conventions",
             "type": "instruction",
             "objective": "Identify genre conventions in film and explain how genre sets audience expectations.",
@@ -248,14 +244,14 @@
         ]
       },
       {
-        "id": "e2y8uuj3",
+        "id": "hckk2jne",
         "title": "Music, Narrative & Story",
         "semester": "Fall",
         "essentialQuestion": "How does a composer's score become as powerful as the images on screen?",
         "description": "Core focus: Music in film, Hero's Journey structure, narrative planning. Students move from visual technique to full storytelling, culminating in two major projects before winter break.",
         "lessons": [
           {
-            "id": "jik6hvrk",
+            "id": "hxhlqfqz",
             "title": "Music in Film – Score vs. Source Music",
             "type": "instruction",
             "objective": "Distinguish between score and source music and analyze how Danny Elfman's score in Nightmare Before Christmas creates emotional tone.",
@@ -267,7 +263,7 @@
             "notes": ""
           },
           {
-            "id": "25qx8zn6",
+            "id": "ffjl6vo6",
             "title": "Hero's Journey – 12 Stages",
             "type": "instruction",
             "objective": "Identify all 12 stages of the Hero's Journey using Star Wars, How to Train Your Dragon, and Bluey examples.",
@@ -280,7 +276,7 @@
             "notes": ""
           },
           {
-            "id": "x49tyy2r",
+            "id": "x7akbg10",
             "title": "Music Driven Story Project",
             "type": "project",
             "objective": "Create a silent short film driven entirely by music and visuals, with no dialogue. Storyboard required.",
@@ -294,7 +290,7 @@
             "notes": "No dialogue. Instrumental music only. Storyboard required before filming."
           },
           {
-            "id": "vbmqbs3r",
+            "id": "5r8rkogs",
             "title": "Pre-Production Review & Storyboard Peer Feedback",
             "type": "instruction",
             "objective": "Apply peer review criteria to evaluate storyboards and provide structured, actionable feedback.",
@@ -307,7 +303,7 @@
             "notes": ""
           },
           {
-            "id": "zzj729v6",
+            "id": "vbf1ziou",
             "title": "Hero's Journey Group Project",
             "type": "project",
             "objective": "Produce a group film OR slide analysis of an existing film demonstrating all 12 Hero's Journey stages.",
@@ -321,7 +317,7 @@
             "notes": "On-screen text labels required. All cinematography techniques required."
           },
           {
-            "id": "y52hlc1t",
+            "id": "08cal9va",
             "title": "Traditions Video Project",
             "type": "project",
             "objective": "Create a 2–3 minute video about a family holiday tradition using green screen and all camera techniques.",
@@ -335,7 +331,7 @@
             "notes": "Green screen required. Storyboard + script approval required before filming."
           },
           {
-            "id": "as6pdoji",
+            "id": "406ipt20",
             "title": "End of Semester Review & Film Festival",
             "type": "assessment",
             "objective": "Screen final semester projects, reflect on growth, and celebrate class work at the Film Festival.",
@@ -350,14 +346,14 @@
         ]
       },
       {
-        "id": "gzmixmtv",
+        "id": "ym6nyrqy",
         "title": "Cultural Awareness & Documentary",
         "semester": "Spring",
         "essentialQuestion": "Whose stories aren't being told — and how do we use film to change that?",
         "description": "Core focus: Research-driven video production, documentary structure, voice-over narration, cultural storytelling. Students produce real content that airs on the school news broadcast.",
         "lessons": [
           {
-            "id": "7fgkn4jy",
+            "id": "5q6uidym",
             "title": "Documentary Structure & Voice-Over Narration",
             "type": "instruction",
             "objective": "Explain documentary structure and demonstrate professional voice-over narration technique with visual support.",
@@ -370,7 +366,7 @@
             "notes": ""
           },
           {
-            "id": "kglvyxpc",
+            "id": "zgc5s5mo",
             "title": "Visual Research – Archival Images & Citation",
             "type": "instruction",
             "objective": "Apply methods for finding, selecting, and properly citing archival images and footage in documentary work.",
@@ -383,7 +379,7 @@
             "notes": ""
           },
           {
-            "id": "su3163pd",
+            "id": "8ong4i6a",
             "title": "Lower-Thirds & On-Screen Graphics",
             "type": "instruction",
             "objective": "Design and implement lower-thirds, title cards, and on-screen text following broadcast best practices.",
@@ -396,7 +392,7 @@
             "notes": ""
           },
           {
-            "id": "hfi92qz9",
+            "id": "4yoycg9k",
             "title": "Black History Month Tribute Video",
             "type": "project",
             "objective": "Create a video tribute to a chosen historical figure. Top videos air on the Roaring Report news broadcast.",
@@ -410,7 +406,7 @@
             "notes": "Student choice from provided list. Top videos air on Roaring Report."
           },
           {
-            "id": "shh3hy4w",
+            "id": "bbbv4pwx",
             "title": "Women's History Month Video",
             "type": "project",
             "objective": "Produce a 1:30–2:00 min structured documentary about an influential woman. Top videos air on broadcast.",
@@ -423,7 +419,7 @@
             "notes": "Structured outline provided: background, impact, challenges, inspiration."
           },
           {
-            "id": "ne1htaq4",
+            "id": "y9rymaub",
             "title": "Epic Movie Trailer (Group Project)",
             "type": "project",
             "objective": "Create a shot-for-shot recreation of a real movie trailer using all original footage and green screen.",
@@ -437,7 +433,7 @@
             "notes": "All original footage required. Own props/costumes required. Studio title card required."
           },
           {
-            "id": "0hei5mph",
+            "id": "0m9t9mvb",
             "title": "Tension & Conflict – How Editing Builds Pressure",
             "type": "instruction",
             "objective": "Analyze how pacing and editing techniques create tension in non-action scenes.",
@@ -450,7 +446,7 @@
             "notes": ""
           },
           {
-            "id": "hjhjd8fk",
+            "id": "67vvtmfj",
             "title": "Story of Television Documentary (Group Project, Year A)",
             "type": "project",
             "objective": "Produce a 4–6 minute documentary about an assigned influential TV show including voice-over, lower-thirds, and original graphics.",
@@ -466,14 +462,14 @@
         ]
       },
       {
-        "id": "1hmdilsd",
+        "id": "86bbaw7a",
         "title": "Genre, Creative Voice & Capstone",
         "semester": "Spring",
         "essentialQuestion": "What is your voice as a filmmaker — and what story can only you tell?",
         "description": "Core focus: Genre awareness, creative autonomy, capstone production. Students bring together everything from the year in their most ambitious work.",
         "lessons": [
           {
-            "id": "2un382co",
+            "id": "8rk6udm0",
             "title": "Short Film Structure – Studying Pixar Shorts",
             "type": "instruction",
             "objective": "Identify elements of a complete short film structure and analyze Pixar shorts as models.",
@@ -485,7 +481,7 @@
             "notes": ""
           },
           {
-            "id": "88vzoo1x",
+            "id": "hpfmfw47",
             "title": "Green Screen Advanced Techniques & Chroma Key",
             "type": "instruction",
             "objective": "Apply advanced chroma key troubleshooting and creative uses of green screen in production.",
@@ -498,7 +494,7 @@
             "notes": ""
           },
           {
-            "id": "9eg4ug45",
+            "id": "e9ngdzx9",
             "title": "How-To Video Project",
             "type": "project",
             "objective": "Create a 1–3 minute tutorial video with voice-over narration and time-lapse on any topic of choice.",
@@ -512,7 +508,7 @@
             "notes": "Voice-over narration required. Time-lapse required."
           },
           {
-            "id": "zcs7vmro",
+            "id": "rs0myjz8",
             "title": "Commercial Swede (Group Project, Year A)",
             "type": "project",
             "objective": "Create a shot-for-shot low-budget recreation of a commercial or TV intro with own props and storyboard approval.",
@@ -526,7 +522,7 @@
             "notes": "45 sec–1 min. Own props required. Storyboard approval required. Green screen required."
           },
           {
-            "id": "clwb91y3",
+            "id": "1imi8yfo",
             "title": "Film Festival Planning – Audience Awareness",
             "type": "instruction",
             "objective": "Develop a film festival planning strategy considering audience awareness and production timeline.",
@@ -539,7 +535,7 @@
             "notes": ""
           },
           {
-            "id": "he8yrfvg",
+            "id": "ape6y9er",
             "title": "Film Festival Short Film (Group Project)",
             "type": "project",
             "objective": "Produce a 5–6 minute original short film with authentic creative vision for whole-school screening and vote.",
@@ -554,7 +550,7 @@
             "notes": "No instructions — authentic creative vision. Whole school screening. Student vote. 4 weeks production time."
           },
           {
-            "id": "j4jh0dq5",
+            "id": "a26a2smk",
             "title": "End-of-Year Reflection Podcast",
             "type": "project",
             "objective": "Create a 7–10 minute edited podcast video reflecting on the full year of learning and production.",
@@ -567,7 +563,7 @@
             "notes": "Raw recording, no advance questions. B-roll from past projects required."
           },
           {
-            "id": "bup3wq1w",
+            "id": "vgg7ci7g",
             "title": "Film Festival Week – Whole School Screening",
             "type": "assessment",
             "objective": "Screen the Film Festival short films for the whole school, conduct student vote, and celebrate the year.",
