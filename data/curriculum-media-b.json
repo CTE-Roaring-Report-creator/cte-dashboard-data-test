@@ -1,18 +1,18 @@
 {
   "key": "curriculum-media-b",
-  "updatedAt": "2026-08-24T03:16:35.677Z",
-  "device": "Home",
+  "updatedAt": "2026-08-23T22:20:41.798Z",
+  "device": "Personal",
   "value": {
     "units": [
       {
-        "id": "jl6mcv4r",
+        "id": "goiti4hw",
         "title": "Visual Language – Advanced",
         "semester": "Fall",
         "essentialQuestion": "How does intentional use of shots, angles, and movement reveal a director's unique vision?",
         "description": "Action Crew (returning Year B students) step immediately into production leadership roles while studying advanced cinematography. Year B differentiation: Expanded Shot/Angle/Movement Scene with director's statement.",
         "lessons": [
           {
-            "id": "8r42bp0r",
+            "id": "j1gk2lyb",
             "title": "Action Crew Orientation & Leadership Roles",
             "type": "instruction",
             "objective": "Understand Action Crew leadership roles (Director, Producer, Editor, Production Engineer) and responsibilities.",
@@ -25,7 +25,7 @@
             "notes": "Action Crew students step into production leadership immediately. Groups formed with at least one Action Crew member."
           },
           {
-            "id": "u2nssipc",
+            "id": "jolkchac",
             "title": "Shot Types Review & Advanced Application",
             "type": "instruction",
             "objective": "Apply shot type knowledge to analyze professional films and justify cinematic choices.",
@@ -38,7 +38,7 @@
             "notes": ""
           },
           {
-            "id": "dzcruzja",
+            "id": "lc1dsqws",
             "title": "Camera Angles – Advanced Analysis",
             "type": "instruction",
             "objective": "Analyze how directors use camera angles to convey directorial intent and subtext.",
@@ -51,7 +51,7 @@
             "notes": ""
           },
           {
-            "id": "px4k0wht",
+            "id": "c16oojlg",
             "title": "Camera Movement – Directorial Intent",
             "type": "instruction",
             "objective": "Analyze how specific camera movements communicate meaning and justify movement choices in planning.",
@@ -64,7 +64,7 @@
             "notes": ""
           },
           {
-            "id": "zu4upcwc",
+            "id": "ml47caug",
             "title": "Expanded Shot/Angle/Movement Scene (Year B Group Project)",
             "type": "project",
             "objective": "Create a scene using all three techniques with intentional directorial choices, supported by a written director's statement.",
@@ -80,14 +80,14 @@
         ]
       },
       {
-        "id": "1b5orux8",
+        "id": "pashxvm0",
         "title": "Production Fundamentals – Advanced",
         "semester": "Fall",
         "essentialQuestion": "When you can see every technique clearly, how do you choose which one serves the story best?",
         "description": "Year B students deepen production skills, focusing on intentional application of all techniques learned in Year A. Action Crew duties run continuously.",
         "lessons": [
           {
-            "id": "olw02tqa",
+            "id": "8nfpig45",
             "title": "Advanced Editing – Rhythm, Continuity & Match Cuts",
             "type": "instruction",
             "objective": "Apply advanced editing principles including rhythmic editing, continuity cutting, and match cuts.",
@@ -100,7 +100,7 @@
             "notes": ""
           },
           {
-            "id": "tav0enmx",
+            "id": "g8batjz1",
             "title": "B-Roll Competition (Advanced)",
             "type": "project",
             "objective": "Capture 10+ B-roll shots demonstrating advanced compositional choices, then edit into a 1-minute video.",
@@ -113,7 +113,7 @@
             "notes": "No faces rule. More advanced compositional choices expected from Year B students."
           },
           {
-            "id": "vm4imljb",
+            "id": "ufdgaxng",
             "title": "Advanced Audio – Layering & Sound Design",
             "type": "instruction",
             "objective": "Layer multiple audio tracks, design sound effects, and create professional audio mixes.",
@@ -126,7 +126,7 @@
             "notes": ""
           },
           {
-            "id": "mid56547",
+            "id": "31iz8kwg",
             "title": "Advanced Interviewing & Documentary Technique",
             "type": "instruction",
             "objective": "Apply professional documentary interviewing techniques including response framing and emotional storytelling.",
@@ -139,7 +139,7 @@
             "notes": ""
           },
           {
-            "id": "rd4ajey0",
+            "id": "90v52z6u",
             "title": "Peer & Teacher Interview Projects",
             "type": "project",
             "objective": "Produce professional interviews at an advanced level with sophisticated B-roll coverage and audio mixing.",
@@ -155,14 +155,14 @@
         ]
       },
       {
-        "id": "g7p3r28l",
+        "id": "z026csy0",
         "title": "Music, Narrative & Story – Year B",
         "semester": "Fall",
         "essentialQuestion": "What makes a film score feel inevitable — like it could only ever fit that exact moment?",
         "description": "Year B students study music and narrative at a deeper analytical level, with Year B-specific films and projects.",
         "lessons": [
           {
-            "id": "03wsi8tv",
+            "id": "oriqq9sd",
             "title": "Music in Film – Advanced Analysis (Bruno Coulais & Coraline)",
             "type": "instruction",
             "objective": "Analyze how Bruno Coulais' score in Coraline shifts between the real world and Other World, distinguishing sound design from score.",
@@ -174,7 +174,7 @@
             "notes": "Year B uses Coraline instead of Nightmare Before Christmas."
           },
           {
-            "id": "trddi890",
+            "id": "553je5f3",
             "title": "Hero's Journey – Comparative Analysis",
             "type": "instruction",
             "objective": "Compare Hero's Journey structures across multiple films and episodes, identifying structural variations.",
@@ -187,7 +187,7 @@
             "notes": "Year B uses The Iron Giant + Bluey different episodes + Pixar Shorts."
           },
           {
-            "id": "u9g5xobh",
+            "id": "srml8fcj",
             "title": "Music Driven Story Project",
             "type": "project",
             "objective": "Create a silent short film driven entirely by music and visuals, with deliberate musical selection and justification.",
@@ -201,7 +201,7 @@
             "notes": "No dialogue. More sophisticated musical choices expected from Year B."
           },
           {
-            "id": "bl0g8c6i",
+            "id": "utm9hd2g",
             "title": "Hero's Journey Group Project",
             "type": "project",
             "objective": "Produce a group film OR comparative slide analysis across multiple films demonstrating advanced Hero's Journey understanding.",
@@ -215,7 +215,7 @@
             "notes": "Year B can choose to compare arc structure across two short examples."
           },
           {
-            "id": "tik9rlxz",
+            "id": "5e425lqk",
             "title": "Holiday Video Project",
             "type": "project",
             "objective": "Create a holiday-themed video demonstrating mastery of all production techniques at Year B level.",
@@ -231,14 +231,14 @@
         ]
       },
       {
-        "id": "mu4kjcqm",
+        "id": "w3xw5xne",
         "title": "Cultural Awareness & Personal Documentary",
         "semester": "Spring",
         "essentialQuestion": "What does it mean to make something that only you could make?",
         "description": "Year B students undertake personal narrative filmmaking in their documentary slot. The Moment That Matters project is an individual silent short film unique to Year B.",
         "lessons": [
           {
-            "id": "vpiy6ls4",
+            "id": "y0bcbdyw",
             "title": "Personal Narrative Filmmaking",
             "type": "instruction",
             "objective": "Analyze what makes a personal moment cinematically significant and plan a personal narrative film.",
@@ -251,7 +251,7 @@
             "notes": "Year B lesson: What makes a moment matter?"
           },
           {
-            "id": "x4wzy2ws",
+            "id": "j0inhn0a",
             "title": "Storyboard Development & Peer Review",
             "type": "instruction",
             "objective": "Develop a detailed storyboard for a personal narrative film and give/receive structured peer feedback.",
@@ -264,7 +264,7 @@
             "notes": "Storyboard peer review required. Teacher approval required before filming."
           },
           {
-            "id": "05yhxt2y",
+            "id": "21o0zltb",
             "title": "Black History Month Tribute Video",
             "type": "project",
             "objective": "Create a video tribute at an advanced production level. Top videos air on the Roaring Report.",
@@ -277,7 +277,7 @@
             "notes": ""
           },
           {
-            "id": "xp5743wr",
+            "id": "2xx87sla",
             "title": "Women's History Month Video",
             "type": "project",
             "objective": "Produce a structured documentary about an influential woman at an advanced production level.",
@@ -290,7 +290,7 @@
             "notes": ""
           },
           {
-            "id": "s7xhljet",
+            "id": "h2319za8",
             "title": "Moment That Matters – Personal Short Film (Year B)",
             "type": "project",
             "objective": "Create a 5–6 min silent short film capturing a character's significant moment. No dialogue. Storyboard peer review required.",
@@ -304,7 +304,7 @@
             "notes": "Year B exclusive project. No dialogue. 5–6 weeks. Storyboard peer review required before filming."
           },
           {
-            "id": "0zm6c41r",
+            "id": "g156i5bz",
             "title": "Epic Movie Trailer (Group Project)",
             "type": "project",
             "objective": "Create a shot-for-shot recreation of a movie trailer using all original footage and green screen at Year B level.",
@@ -320,14 +320,14 @@
         ]
       },
       {
-        "id": "ahgb9n85",
+        "id": "q1jytgrs",
         "title": "Genre, Creative Voice & Capstone – Year B",
         "semester": "Spring",
         "essentialQuestion": "Looking back on two years of filmmaking — what have you learned to see?",
         "description": "Year B students complete their most ambitious and autonomous work, culminating in the Film Festival and End-of-Year Reflection Podcast.",
         "lessons": [
           {
-            "id": "e5vfhwg4",
+            "id": "wtpws6b4",
             "title": "Genre Subversion & Creative Voice",
             "type": "instruction",
             "objective": "Analyze how The Princess Bride subverts genre conventions and apply genre subversion to original work.",
@@ -339,7 +339,7 @@
             "notes": "Year B uses The Princess Bride as primary text."
           },
           {
-            "id": "rt26tvy4",
+            "id": "wkf0ecyq",
             "title": "Found Footage & Personal Visual Storytelling",
             "type": "instruction",
             "objective": "Analyze how Earth to Echo uses found footage style and discuss when breaking camera rules becomes intentional.",
@@ -352,7 +352,7 @@
             "notes": "Year B uses Earth to Echo instead of E.T."
           },
           {
-            "id": "dwfhj9e6",
+            "id": "5juqubqe",
             "title": "How-To Video Project",
             "type": "project",
             "objective": "Create a 1–3 minute tutorial video at Year B production quality standards.",
@@ -366,7 +366,7 @@
             "notes": "Voice-over narration required. Time-lapse required. Higher production quality expected."
           },
           {
-            "id": "cqpulgo9",
+            "id": "3d9vldhg",
             "title": "The Homage – Scene Recreation (Year B Group Project)",
             "type": "project",
             "objective": "Recreate a scene from a course film matching shots, angles, and movement with a required director's statement.",
@@ -380,7 +380,7 @@
             "notes": "Must choose from course films studied. Director's statement required. Year B exclusive project."
           },
           {
-            "id": "1en9j2ip",
+            "id": "g93dtfy4",
             "title": "Film Festival Short Film (Group Project)",
             "type": "project",
             "objective": "Produce a 5–6 minute original short film with authentic creative vision for whole-school screening and vote.",
@@ -395,7 +395,7 @@
             "notes": "No instructions — authentic creative vision. Whole school screening. Student vote."
           },
           {
-            "id": "k68fsfwd",
+            "id": "yk41j7qv",
             "title": "End-of-Year Reflection Podcast",
             "type": "project",
             "objective": "Create a 7–10 minute edited podcast video reflecting on two full years of production and growth.",
@@ -408,7 +408,7 @@
             "notes": "Raw recording, no advance questions. B-roll from two years of projects."
           },
           {
-            "id": "0gqn2fhr",
+            "id": "us72dx7t",
             "title": "Film Festival Week – Whole School Screening",
             "type": "assessment",
             "objective": "Screen the Film Festival short films for the whole school, conduct student vote, and celebrate two years of filmmaking.",
