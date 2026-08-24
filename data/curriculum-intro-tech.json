@@ -1,6 +1,6 @@
 {
   "key": "curriculum-intro-tech",
-  "updatedAt": "2026-08-24T03:24:14.136Z",
+  "updatedAt": "2026-08-24T03:25:15.886Z",
   "device": "Home",
   "value": {
     "units": [
@@ -24,7 +24,7 @@
             "links": [],
             "notes": "",
             "bellRingers": [
-              "TEst 333"
+              "Test 333"
             ]
           },
           {
