@@ -1,18 +1,18 @@
 {
   "key": "curriculum-intro-tech",
-  "updatedAt": "2026-08-24T03:16:35.657Z",
-  "device": "Home",
+  "updatedAt": "2026-08-23T22:20:41.793Z",
+  "device": "Personal",
   "value": {
     "units": [
       {
-        "id": "kthpf7z5",
+        "id": "23e99i4u",
         "title": "Digital Citizenship & Online Identity",
         "semester": "Fall",
         "essentialQuestion": "How does your digital footprint define who you are online and in the future?",
         "description": "Students explore responsible digital citizenship, online safety, and personal branding. They learn to evaluate online content critically and create a professional digital identity.",
         "lessons": [
           {
-            "id": "pq6xy0j9",
+            "id": "olj9bkxo",
             "title": "Course Introduction & Expectations",
             "type": "instruction",
             "objective": "Recall course expectations, class procedures, and technology lab safety rules.",
@@ -22,13 +22,10 @@
               "ISTE 1.1 – Empowered Learner"
             ],
             "links": [],
-            "notes": "",
-            "bellRingers": [
-              "INtro Test 1\n"
-            ]
+            "notes": ""
           },
           {
-            "id": "qdhsx4oa",
+            "id": "u847ciwu",
             "title": "Amazon Warehouse Virtual Tour",
             "type": "instruction",
             "objective": "Describe how technology is used in modern logistics and identify ICT career pathways.",
@@ -38,14 +35,10 @@
               "ISTE 1.3 – Knowledge Constructor"
             ],
             "links": [],
-            "notes": "",
-            "bellRingers": [
-              "New day...",
-              ""
-            ]
+            "notes": ""
           },
           {
-            "id": "j6tpkscm",
+            "id": "kxi6ba10",
             "title": "Syllabus & Course Overview",
             "type": "instruction",
             "objective": "Summarize the course pathway, grading policies, and expectations for the two-year CTE program.",
@@ -58,7 +51,7 @@
             "notes": ""
           },
           {
-            "id": "nhhklzc5",
+            "id": "uf0zitso",
             "title": "Google Interland – Digital Safety",
             "type": "project",
             "objective": "Apply strategies for staying safe online by navigating interactive scenarios about phishing, oversharing, and password security.",
@@ -71,7 +64,7 @@
             "notes": ""
           },
           {
-            "id": "y1i94cgh",
+            "id": "qd6zkzns",
             "title": "Fake Instagram Profile Analysis",
             "type": "instruction",
             "objective": "Evaluate fake social media profiles to distinguish credible from deceptive online identities.",
@@ -84,7 +77,7 @@
             "notes": ""
           },
           {
-            "id": "qg9iieij",
+            "id": "g3y6aa6n",
             "title": "Social Sleuth Investigation",
             "type": "project",
             "objective": "Analyze digital footprints to determine what personal information is publicly accessible.",
@@ -97,7 +90,7 @@
             "notes": ""
           },
           {
-            "id": "h7lcyjj2",
+            "id": "8xk9wz37",
             "title": "Google Header Design",
             "type": "project",
             "objective": "Design a personalized Google Classroom header representing identity using basic graphic design principles.",
@@ -112,14 +105,14 @@
         ]
       },
       {
-        "id": "wyyry99t",
+        "id": "ht7rbnlj",
         "title": "Digital Portfolios & Personal Branding",
         "semester": "Fall",
         "essentialQuestion": "How do you communicate your skills, identity, and goals to an authentic audience?",
         "description": "Students build and maintain a digital portfolio using Canva and Google Sites to document their learning journey. They set SMART goals and learn to present their work professionally.",
         "lessons": [
           {
-            "id": "3us6y2mg",
+            "id": "uuwn5jm3",
             "title": "Canva Header Design",
             "type": "project",
             "objective": "Create a professional-quality portfolio header using Canva, applying color theory and typography principles.",
@@ -132,7 +125,7 @@
             "notes": ""
           },
           {
-            "id": "rz9bk2q2",
+            "id": "kj9hcnxs",
             "title": "Digital Portfolio Setup",
             "type": "project",
             "objective": "Construct a digital portfolio site that organizes work samples, bio, and learning reflections.",
@@ -145,7 +138,7 @@
             "notes": ""
           },
           {
-            "id": "t3sazofn",
+            "id": "adgda2zn",
             "title": "Choose Your Own Adventure – Planning & Creation",
             "type": "project",
             "objective": "Design and develop an interactive choose-your-own-adventure story using hyperlinks and branching logic.",
@@ -159,7 +152,7 @@
             "notes": ""
           },
           {
-            "id": "29be4a2e",
+            "id": "hhk0z4ed",
             "title": "Digital Portfolio Goals (SMART Goals)",
             "type": "assessment",
             "objective": "Formulate SMART goals for the semester and articulate them within the digital portfolio.",
@@ -174,14 +167,14 @@
         ]
       },
       {
-        "id": "bg5vft8x",
+        "id": "5g7re5py",
         "title": "Digital Image Editing with Photoshop",
         "semester": "Fall",
         "essentialQuestion": "How do digital tools empower us to construct and communicate meaning through images?",
         "description": "Students develop proficiency in Adobe Photoshop, progressing from basic layer manipulation to advanced compositing techniques.",
         "lessons": [
           {
-            "id": "lkvs48mv",
+            "id": "crirbb9w",
             "title": "Photoshop Introduction & Interface",
             "type": "instruction",
             "objective": "Identify the key tools, panels, and workspace elements of the Photoshop interface.",
@@ -194,7 +187,7 @@
             "notes": ""
           },
           {
-            "id": "diw01lly",
+            "id": "1y3tt2ua",
             "title": "Layers Assignment",
             "type": "project",
             "objective": "Demonstrate how layers function by composing a multi-layer image with proper ordering and opacity.",
@@ -207,7 +200,7 @@
             "notes": ""
           },
           {
-            "id": "e6smhmeb",
+            "id": "q4cnikcp",
             "title": "Lasso Tool Tracing & Assignment",
             "type": "project",
             "objective": "Apply selection tools to isolate and manipulate image elements with precision.",
@@ -220,7 +213,7 @@
             "notes": ""
           },
           {
-            "id": "i6m07riz",
+            "id": "2ppi6ceb",
             "title": "Digital Collage",
             "type": "project",
             "objective": "Create a digital collage by combining multiple image sources, demonstrating layer management and composition.",
@@ -233,7 +226,7 @@
             "notes": ""
           },
           {
-            "id": "vc6ppw7r",
+            "id": "fkan9mf1",
             "title": "Lasso Leaves Project",
             "type": "project",
             "objective": "Apply lasso and selection tools to create a nature-themed composition with extracted elements.",
@@ -246,7 +239,7 @@
             "notes": ""
           },
           {
-            "id": "3s2hupwg",
+            "id": "l6u119cs",
             "title": "Digital Filters & Effects",
             "type": "project",
             "objective": "Experiment with Photoshop filters to transform images and explain how filters modify pixel data.",
@@ -259,7 +252,7 @@
             "notes": ""
           },
           {
-            "id": "eaxiwvdm",
+            "id": "m4m50ntl",
             "title": "Combining Images – Meme Creation",
             "type": "project",
             "objective": "Combine text and images to create original memes, applying typography and composition skills.",
@@ -272,7 +265,7 @@
             "notes": ""
           },
           {
-            "id": "xyw11w5u",
+            "id": "v534ic78",
             "title": "Digital Citizenship Meme",
             "type": "project",
             "objective": "Design a meme that communicates a digital citizenship concept.",
@@ -287,14 +280,14 @@
         ]
       },
       {
-        "id": "g04yuvzu",
+        "id": "2yg5w1ow",
         "title": "Animated GIFs & Digital Media",
         "semester": "Fall",
         "essentialQuestion": "How does motion and timing change how we communicate a message?",
         "description": "Students create animated GIFs using Photoshop's timeline feature, exploring motion, looping, and digital media concepts.",
         "lessons": [
           {
-            "id": "wy1fo7nc",
+            "id": "4l2x3uzk",
             "title": "Animated GIF Introduction",
             "type": "instruction",
             "objective": "Explain how frame-based animation creates the illusion of motion in digital media.",
@@ -307,7 +300,7 @@
             "notes": ""
           },
           {
-            "id": "ysjj6bzc",
+            "id": "c47e7hh2",
             "title": "GIF Creation Project",
             "type": "project",
             "objective": "Create an original animated GIF using Photoshop timeline, applying principles of motion and looping.",
@@ -322,14 +315,14 @@
         ]
       },
       {
-        "id": "1h4ja73r",
+        "id": "9pm9z6ej",
         "title": "Game Design Project (Semester 1 Capstone)",
         "semester": "Fall",
         "essentialQuestion": "What makes a game engaging, fair, and worth playing?",
         "description": "Students apply the full design process to create an original board or digital game, culminating in a class showcase.",
         "lessons": [
           {
-            "id": "mpwq7y40",
+            "id": "ycz7s3rv",
             "title": "Game Design Introduction & Process",
             "type": "instruction",
             "objective": "Identify the stages of the game design process and understand what makes a game engaging.",
@@ -342,7 +335,7 @@
             "notes": ""
           },
           {
-            "id": "p4xxtbe6",
+            "id": "bgaqugxg",
             "title": "Game Design Document Creation",
             "type": "project",
             "objective": "Develop a comprehensive game design document outlining rules, mechanics, and player experience.",
@@ -355,7 +348,7 @@
             "notes": ""
           },
           {
-            "id": "9soqz34n",
+            "id": "myzs3ue6",
             "title": "Game Prototype Development",
             "type": "project",
             "objective": "Build a playable prototype of the designed game and conduct initial playtesting.",
@@ -368,7 +361,7 @@
             "notes": ""
           },
           {
-            "id": "qrqfcpg9",
+            "id": "7jew644u",
             "title": "Playtest & Revise",
             "type": "project",
             "objective": "Conduct structured playtesting sessions, collect feedback, and implement design revisions.",
@@ -382,7 +375,7 @@
             "notes": ""
           },
           {
-            "id": "qhkchct1",
+            "id": "waiylz5w",
             "title": "Game Showcase & Reflection",
             "type": "assessment",
             "objective": "Present the completed game to peers, articulate design decisions, and reflect on the design process.",
@@ -397,14 +390,14 @@
         ]
       },
       {
-        "id": "aanqw82v",
+        "id": "stvree6l",
         "title": "Introduction to Programming with Scratch",
         "semester": "Spring",
         "essentialQuestion": "How can sequencing and logic allow us to create something from nothing?",
         "description": "Students learn foundational programming concepts through Scratch: sequences, loops, events, and basic animation.",
         "lessons": [
           {
-            "id": "r3um5341",
+            "id": "gkd7mvmf",
             "title": "Scratch Interface & First Program",
             "type": "instruction",
             "objective": "Navigate the Scratch interface and create a simple program using sequences and events.",
@@ -418,7 +411,7 @@
             "notes": ""
           },
           {
-            "id": "x9gkzlfk",
+            "id": "kr4ggj05",
             "title": "Loops & Repetition",
             "type": "project",
             "objective": "Implement loops in Scratch programs to create repetitive patterns and efficient code.",
@@ -432,7 +425,7 @@
             "notes": ""
           },
           {
-            "id": "pfvsnbz7",
+            "id": "ltu3zsrf",
             "title": "Events & Interactivity",
             "type": "project",
             "objective": "Use event-based programming to create interactive Scratch projects that respond to user input.",
@@ -445,7 +438,7 @@
             "notes": ""
           },
           {
-            "id": "mtl45ysa",
+            "id": "zgv9isy1",
             "title": "Scratch Animation Project",
             "type": "project",
             "objective": "Create an animated story in Scratch demonstrating sequences, loops, and event handling.",
@@ -461,14 +454,14 @@
         ]
       },
       {
-        "id": "1n4or9gz",
+        "id": "szy1611f",
         "title": "Animation & Storytelling with Scratch",
         "semester": "Spring",
         "essentialQuestion": "How do we use code to tell a story that moves an audience?",
         "description": "Students combine programming skills with narrative thinking to create animated stories in Scratch, developing both technical and creative abilities.",
         "lessons": [
           {
-            "id": "he9dd8zh",
+            "id": "99rd566r",
             "title": "Sprite Costumes & Animation",
             "type": "instruction",
             "objective": "Use sprite costumes and timing to create smooth character animations in Scratch.",
@@ -481,7 +474,7 @@
             "notes": ""
           },
           {
-            "id": "t90v8tza",
+            "id": "gvfcmify",
             "title": "Scene Design & Backgrounds",
             "type": "project",
             "objective": "Design multi-scene Scratch projects with background transitions and environment changes.",
@@ -494,7 +487,7 @@
             "notes": ""
           },
           {
-            "id": "3nkvh17a",
+            "id": "tqlb9cvi",
             "title": "Animated Story Project",
             "type": "project",
             "objective": "Develop a multi-scene animated story in Scratch with a clear beginning, middle, and end.",
@@ -510,14 +503,14 @@
         ]
       },
       {
-        "id": "cixzod73",
+        "id": "2fw6wlpn",
         "title": "Conditionals & Logic in Scratch",
         "semester": "Spring",
         "essentialQuestion": "How does a computer make decisions, and how do those decisions shape what a program can do?",
         "description": "Students explore conditional logic and boolean expressions, applying them to create programs that make decisions and respond to conditions.",
         "lessons": [
           {
-            "id": "qlwjgra7",
+            "id": "j66o67v7",
             "title": "If/Then & Boolean Logic",
             "type": "instruction",
             "objective": "Explain how conditional statements allow programs to make decisions based on conditions.",
@@ -530,7 +523,7 @@
             "notes": ""
           },
           {
-            "id": "zh7lp7nb",
+            "id": "9e25gygg",
             "title": "Keyboard & Mouse Conditionals",
             "type": "project",
             "objective": "Implement keyboard and mouse input handlers using conditional logic in Scratch.",
@@ -543,7 +536,7 @@
             "notes": ""
           },
           {
-            "id": "2xt5l4ir",
+            "id": "6hqnsaxu",
             "title": "Conditional Mini-Project",
             "type": "project",
             "objective": "Create an interactive Scratch project that uses conditionals to create meaningful decision points.",
@@ -558,14 +551,14 @@
         ]
       },
       {
-        "id": "f6iqfgum",
+        "id": "igowaj3s",
         "title": "Advanced Scratch: Variables & Game Design",
         "semester": "Spring",
         "essentialQuestion": "How do variables transform a program from static to dynamic?",
         "description": "Students learn variables, score tracking, and advanced game mechanics, culminating in original game designs.",
         "lessons": [
           {
-            "id": "0h0kmise",
+            "id": "rduz2vzd",
             "title": "Variables Introduction",
             "type": "instruction",
             "objective": "Define variables and demonstrate how they store and change data within a program.",
@@ -578,7 +571,7 @@
             "notes": ""
           },
           {
-            "id": "reyo3ect",
+            "id": "a2usj51r",
             "title": "Score & Lives Systems",
             "type": "project",
             "objective": "Implement score and lives tracking systems using variables in a Scratch game.",
@@ -591,7 +584,7 @@
             "notes": ""
           },
           {
-            "id": "hf6j3jnw",
+            "id": "lr8cqptw",
             "title": "Advanced Game Development",
             "type": "project",
             "objective": "Design and develop a complete arcade-style game in Scratch with variables, conditionals, and collision detection.",
@@ -607,14 +600,14 @@
         ]
       },
       {
-        "id": "lybjp8k0",
+        "id": "xulmk1up",
         "title": "Semester 2 Capstone & Portfolio Showcase",
         "semester": "Spring",
         "essentialQuestion": "What have you learned, created, and become this year?",
         "description": "Students compile their best work, reflect on growth across the year, and showcase their digital portfolio to an authentic audience.",
         "lessons": [
           {
-            "id": "q5qwtpxn",
+            "id": "mdgkncfd",
             "title": "Portfolio Curation & Selection",
             "type": "project",
             "objective": "Curate a digital portfolio by selecting and organizing best work samples with written reflections.",
@@ -627,7 +620,7 @@
             "notes": ""
           },
           {
-            "id": "ab9ep7jw",
+            "id": "9x5pk3k9",
             "title": "Portfolio Presentation Preparation",
             "type": "project",
             "objective": "Prepare a structured presentation of the digital portfolio for an authentic audience.",
@@ -640,7 +633,7 @@
             "notes": ""
           },
           {
-            "id": "sht15hub",
+            "id": "riod4w41",
             "title": "Portfolio Showcase Event",
             "type": "assessment",
             "objective": "Present the completed digital portfolio to peers, family, and community members, articulating learning growth.",
@@ -653,7 +646,7 @@
             "notes": ""
           },
           {
-            "id": "mcvzat2f",
+            "id": "krpb5y9p",
             "title": "Year-End Reflection",
             "type": "assessment",
             "objective": "Write a comprehensive reflection on learning growth, challenges overcome, and goals for next year.",
