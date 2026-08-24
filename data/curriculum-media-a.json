@@ -1,0 +1,586 @@
+{
+  "key": "curriculum-media-a",
+  "updatedAt": "2026-08-23T22:19:43.768Z",
+  "device": "Home",
+  "value": {
+    "units": [
+      {
+        "id": "qiv28lpx",
+        "title": "Visual Language",
+        "semester": "Fall",
+        "essentialQuestion": "How does the choice of shot type, angle, and camera movement shape what an audience feels?",
+        "description": "Core focus: Shot types, camera angles, camera movement. Students build the foundational vocabulary of cinematography while immediately applying it in production.",
+        "lessons": [
+          {
+            "id": "lng1c29y",
+            "title": "Orientation, WeVideo & Premiere Setup, Syllabus",
+            "type": "instruction",
+            "objective": "Set up production tools, understand course expectations, and form project groups.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 1.0 – Careers",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "",
+            "bellRingers": [
+              "TEst ONe",
+              ""
+            ]
+          },
+          {
+            "id": "6or9vw4p",
+            "title": "Shot Types (ELS, LS, MS, CU, ECU)",
+            "type": "instruction",
+            "objective": "Identify and demonstrate the five primary shot types and explain how each affects viewer emotion.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": "Use final scene from The Good, the Bad & the Ugly. Three-way gunfight shows ELS→ECU progression perfectly."
+          },
+          {
+            "id": "lpnq9vrn",
+            "title": "Camera Angles (Eye Level, Low, High, Dutch Tilt)",
+            "type": "instruction",
+            "objective": "Explain how camera angle conveys power, vulnerability, and tension in film.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": "Stranger Things (eye level), Avengers (low/high), Iron Man (Dutch tilt), Lion King (low angle)."
+          },
+          {
+            "id": "875ygqbq",
+            "title": "Camera Movements (Static, Pan, Tilt, Dolly, Truck)",
+            "type": "instruction",
+            "objective": "Demonstrate five camera movements and explain the emotional effect of each.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "Moonrise Kingdom for truck, Inception for Dutch tilt. Connect to NxNW crop duster for dolly examples."
+          },
+          {
+            "id": "4eocives",
+            "title": "Review & Assessment – Shots/Angles/Movements Quiz",
+            "type": "assessment",
+            "objective": "Demonstrate mastery of shot types, angles, and camera movements through written and visual assessment.",
+            "estimatedDays": 1,
+            "standards": [
+              "AME 3.0 – Technical Skills"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "u46r1a0g",
+            "title": "Intro Video Project",
+            "type": "project",
+            "objective": "Create a short personal introduction video using WeVideo, practicing basic editing techniques.",
+            "estimatedDays": 3,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "mkdnkz3p",
+            "title": "Storytelling Through Shots Project (Group)",
+            "type": "project",
+            "objective": "Create a 1–2 minute short film using all five shot types to tell a story without dialogue.",
+            "estimatedDays": 5,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": "Shot list worksheet required. Reflection required. No dialogue required."
+          }
+        ]
+      },
+      {
+        "id": "1p0hku1c",
+        "title": "Production Fundamentals",
+        "semester": "Fall",
+        "essentialQuestion": "How does every production decision — from script to final cut — serve the story's purpose?",
+        "description": "Core focus: Scriptwriting, storyboarding, interviewing, editing, audio, lighting. Students apply visual language skills to structured production work while deepening their technical toolkit.",
+        "lessons": [
+          {
+            "id": "swgmdqas",
+            "title": "Editing Techniques – Cuts, Transitions, Pacing",
+            "type": "instruction",
+            "objective": "Explain how different editing techniques (cuts, transitions, pacing) shape viewer emotion and narrative flow.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "Needs slides created. Priority to create. Use NxNW crop duster scene as primary example."
+          },
+          {
+            "id": "s8wthn6t",
+            "title": "B-Roll Competition",
+            "type": "project",
+            "objective": "Capture 10+ B-roll shots on campus demonstrating variety of angles and movements, then edit into a 1-minute video.",
+            "estimatedDays": 4,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "No faces rule. Variety of angles/movements required. Class vote for best videos."
+          },
+          {
+            "id": "lejtnjbr",
+            "title": "Scriptwriting & Teleprompter Writing",
+            "type": "instruction",
+            "objective": "Write broadcast-ready scripts using teleprompter formatting and conversational language.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 7.0 – Communication",
+              "CCSS ELA – Writing"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "h7m2v8v7",
+            "title": "Audio & Sound Design",
+            "type": "instruction",
+            "objective": "Apply proper microphone technique, audio level standards, and ambient sound principles to video production.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "7r6jx58x",
+            "title": "Storyboarding",
+            "type": "instruction",
+            "objective": "Create a professional storyboard using panel notation and shot descriptions for pre-production planning.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "t8oma3ku",
+            "title": "Rule of Thirds & Interview Framing",
+            "type": "instruction",
+            "objective": "Apply the rule of thirds to on-camera interview framing and explain why long-sided interviews are standard.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "t5j2g52z",
+            "title": "Interviewing Techniques",
+            "type": "instruction",
+            "objective": "Demonstrate open-ended questioning, active listening, and follow-up techniques in a video interview context.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 7.0 – Communication",
+              "CCSS ELA – Speaking & Listening"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "seslwttw",
+            "title": "Peer & Teacher Interview Projects",
+            "type": "project",
+            "objective": "Produce professional 2–3 minute interviews with both on-camera and long-sided framing, including B-roll.",
+            "estimatedDays": 5,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "6–7 questions required. 1 follow-up required. B-roll required. Transitions required."
+          },
+          {
+            "id": "uccslzth",
+            "title": "Lighting Basics – Three-Point Lighting",
+            "type": "instruction",
+            "objective": "Explain and set up three-point lighting, comparing natural and artificial light for mood and shadow.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "njyff55u",
+            "title": "Genre Study – Introduction to Genre Conventions",
+            "type": "instruction",
+            "objective": "Identify genre conventions in film and explain how genre sets audience expectations.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "e2y8uuj3",
+        "title": "Music, Narrative & Story",
+        "semester": "Fall",
+        "essentialQuestion": "How does a composer's score become as powerful as the images on screen?",
+        "description": "Core focus: Music in film, Hero's Journey structure, narrative planning. Students move from visual technique to full storytelling, culminating in two major projects before winter break.",
+        "lessons": [
+          {
+            "id": "jik6hvrk",
+            "title": "Music in Film – Score vs. Source Music",
+            "type": "instruction",
+            "objective": "Distinguish between score and source music and analyze how Danny Elfman's score in Nightmare Before Christmas creates emotional tone.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "25qx8zn6",
+            "title": "Hero's Journey – 12 Stages",
+            "type": "instruction",
+            "objective": "Identify all 12 stages of the Hero's Journey using Star Wars, How to Train Your Dragon, and Bluey examples.",
+            "estimatedDays": 3,
+            "standards": [
+              "AME 7.0 – Communication",
+              "CCSS ELA – Speaking & Listening"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "x49tyy2r",
+            "title": "Music Driven Story Project",
+            "type": "project",
+            "objective": "Create a silent short film driven entirely by music and visuals, with no dialogue. Storyboard required.",
+            "estimatedDays": 8,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "No dialogue. Instrumental music only. Storyboard required before filming."
+          },
+          {
+            "id": "vbmqbs3r",
+            "title": "Pre-Production Review & Storyboard Peer Feedback",
+            "type": "instruction",
+            "objective": "Apply peer review criteria to evaluate storyboards and provide structured, actionable feedback.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 4.0 – Leadership",
+              "CCSS ELA – Speaking & Listening"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "zzj729v6",
+            "title": "Hero's Journey Group Project",
+            "type": "project",
+            "objective": "Produce a group film OR slide analysis of an existing film demonstrating all 12 Hero's Journey stages.",
+            "estimatedDays": 6,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": "On-screen text labels required. All cinematography techniques required."
+          },
+          {
+            "id": "y52hlc1t",
+            "title": "Traditions Video Project",
+            "type": "project",
+            "objective": "Create a 2–3 minute video about a family holiday tradition using green screen and all camera techniques.",
+            "estimatedDays": 4,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "Green screen required. Storyboard + script approval required before filming."
+          },
+          {
+            "id": "as6pdoji",
+            "title": "End of Semester Review & Film Festival",
+            "type": "assessment",
+            "objective": "Screen final semester projects, reflect on growth, and celebrate class work at the Film Festival.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 1.0 – Careers",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "gzmixmtv",
+        "title": "Cultural Awareness & Documentary",
+        "semester": "Spring",
+        "essentialQuestion": "Whose stories aren't being told — and how do we use film to change that?",
+        "description": "Core focus: Research-driven video production, documentary structure, voice-over narration, cultural storytelling. Students produce real content that airs on the school news broadcast.",
+        "lessons": [
+          {
+            "id": "7fgkn4jy",
+            "title": "Documentary Structure & Voice-Over Narration",
+            "type": "instruction",
+            "objective": "Explain documentary structure and demonstrate professional voice-over narration technique with visual support.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "kglvyxpc",
+            "title": "Visual Research – Archival Images & Citation",
+            "type": "instruction",
+            "objective": "Apply methods for finding, selecting, and properly citing archival images and footage in documentary work.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "ICT Anchor 8.0 – Ethics & Legal"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "su3163pd",
+            "title": "Lower-Thirds & On-Screen Graphics",
+            "type": "instruction",
+            "objective": "Design and implement lower-thirds, title cards, and on-screen text following broadcast best practices.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "hfi92qz9",
+            "title": "Black History Month Tribute Video",
+            "type": "project",
+            "objective": "Create a video tribute to a chosen historical figure. Top videos air on the Roaring Report news broadcast.",
+            "estimatedDays": 6,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "CCSS ELA – Speaking & Listening"
+            ],
+            "links": [],
+            "notes": "Student choice from provided list. Top videos air on Roaring Report."
+          },
+          {
+            "id": "shh3hy4w",
+            "title": "Women's History Month Video",
+            "type": "project",
+            "objective": "Produce a 1:30–2:00 min structured documentary about an influential woman. Top videos air on broadcast.",
+            "estimatedDays": 5,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": "Structured outline provided: background, impact, challenges, inspiration."
+          },
+          {
+            "id": "ne1htaq4",
+            "title": "Epic Movie Trailer (Group Project)",
+            "type": "project",
+            "objective": "Create a shot-for-shot recreation of a real movie trailer using all original footage and green screen.",
+            "estimatedDays": 8,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": "All original footage required. Own props/costumes required. Studio title card required."
+          },
+          {
+            "id": "0hei5mph",
+            "title": "Tension & Conflict – How Editing Builds Pressure",
+            "type": "instruction",
+            "objective": "Analyze how pacing and editing techniques create tension in non-action scenes.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "hjhjd8fk",
+            "title": "Story of Television Documentary (Group Project, Year A)",
+            "type": "project",
+            "objective": "Produce a 4–6 minute documentary about an assigned influential TV show including voice-over, lower-thirds, and original graphics.",
+            "estimatedDays": 10,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": "Lower-thirds required. 1 original graphic required. Voice-over required. 3 visual support types required."
+          }
+        ]
+      },
+      {
+        "id": "1hmdilsd",
+        "title": "Genre, Creative Voice & Capstone",
+        "semester": "Spring",
+        "essentialQuestion": "What is your voice as a filmmaker — and what story can only you tell?",
+        "description": "Core focus: Genre awareness, creative autonomy, capstone production. Students bring together everything from the year in their most ambitious work.",
+        "lessons": [
+          {
+            "id": "2un382co",
+            "title": "Short Film Structure – Studying Pixar Shorts",
+            "type": "instruction",
+            "objective": "Identify elements of a complete short film structure and analyze Pixar shorts as models.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "88vzoo1x",
+            "title": "Green Screen Advanced Techniques & Chroma Key",
+            "type": "instruction",
+            "objective": "Apply advanced chroma key troubleshooting and creative uses of green screen in production.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "9eg4ug45",
+            "title": "How-To Video Project",
+            "type": "project",
+            "objective": "Create a 1–3 minute tutorial video with voice-over narration and time-lapse on any topic of choice.",
+            "estimatedDays": 5,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "Voice-over narration required. Time-lapse required."
+          },
+          {
+            "id": "zcs7vmro",
+            "title": "Commercial Swede (Group Project, Year A)",
+            "type": "project",
+            "objective": "Create a shot-for-shot low-budget recreation of a commercial or TV intro with own props and storyboard approval.",
+            "estimatedDays": 8,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 9.0 – Technology",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": "45 sec–1 min. Own props required. Storyboard approval required. Green screen required."
+          },
+          {
+            "id": "clwb91y3",
+            "title": "Film Festival Planning – Audience Awareness",
+            "type": "instruction",
+            "objective": "Develop a film festival planning strategy considering audience awareness and production timeline.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 1.0 – Careers",
+              "AME 7.0 – Communication"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "he8yrfvg",
+            "title": "Film Festival Short Film (Group Project)",
+            "type": "project",
+            "objective": "Produce a 5–6 minute original short film with authentic creative vision for whole-school screening and vote.",
+            "estimatedDays": 12,
+            "standards": [
+              "AME 3.0 – Technical Skills",
+              "AME 7.0 – Communication",
+              "AME 4.0 – Leadership",
+              "AME 9.0 – Technology"
+            ],
+            "links": [],
+            "notes": "No instructions — authentic creative vision. Whole school screening. Student vote. 4 weeks production time."
+          },
+          {
+            "id": "j4jh0dq5",
+            "title": "End-of-Year Reflection Podcast",
+            "type": "project",
+            "objective": "Create a 7–10 minute edited podcast video reflecting on the full year of learning and production.",
+            "estimatedDays": 5,
+            "standards": [
+              "AME 7.0 – Communication",
+              "AME 1.0 – Careers"
+            ],
+            "links": [],
+            "notes": "Raw recording, no advance questions. B-roll from past projects required."
+          },
+          {
+            "id": "bup3wq1w",
+            "title": "Film Festival Week – Whole School Screening",
+            "type": "assessment",
+            "objective": "Screen the Film Festival short films for the whole school, conduct student vote, and celebrate the year.",
+            "estimatedDays": 2,
+            "standards": [
+              "AME 1.0 – Careers",
+              "AME 4.0 – Leadership"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  }
+}
