@@ -1,18 +1,18 @@
 {
   "key": "curriculum-digital-innovation",
-  "updatedAt": "2026-08-24T03:16:35.675Z",
-  "device": "Home",
+  "updatedAt": "2026-08-23T22:20:41.795Z",
+  "device": "Personal",
   "value": {
     "units": [
       {
-        "id": "7syciksc",
+        "id": "07frwax8",
         "title": "Problem Solving & Web Development (HTML)",
         "semester": "Fall",
         "essentialQuestion": "How does the structure of a webpage reflect the logic of how computers communicate?",
         "description": "Students transition from Scratch to text-based coding, learning HTML to build structured web pages. They connect prior knowledge of algorithms to web development.",
         "lessons": [
           {
-            "id": "qm8j4i33",
+            "id": "a37p70hi",
             "title": "Problem Solving Review & Computational Thinking",
             "type": "instruction",
             "objective": "Apply decomposition, pattern recognition, abstraction, and algorithmic thinking to solve problems.",
@@ -22,14 +22,10 @@
               "ISTE 1.5 – Computational Thinker"
             ],
             "links": [],
-            "notes": "",
-            "bellRingers": [
-              "TEST DI\n",
-              ""
-            ]
+            "notes": ""
           },
           {
-            "id": "u1yqs07y",
+            "id": "5frm3brm",
             "title": "HTML Introduction & Structure",
             "type": "instruction",
             "objective": "Explain the structure of an HTML document using tags, elements, and the DOM hierarchy.",
@@ -43,7 +39,7 @@
             "notes": ""
           },
           {
-            "id": "b3zjo7d5",
+            "id": "8t17ysy8",
             "title": "HTML Content Elements",
             "type": "project",
             "objective": "Create web pages using headings, paragraphs, lists, links, and images.",
@@ -56,7 +52,7 @@
             "notes": ""
           },
           {
-            "id": "wmgi1pgz",
+            "id": "x5ccr0p4",
             "title": "HTML Web Page Project",
             "type": "project",
             "objective": "Design and build a multi-page website on a topic of choice using semantic HTML.",
@@ -72,14 +68,14 @@
         ]
       },
       {
-        "id": "lm8dko3k",
+        "id": "fgl8xdxn",
         "title": "Interactive Programming with Game Lab (Part 1)",
         "semester": "Fall",
         "essentialQuestion": "How do coordinates, shapes, and variables create the building blocks of interactive programs?",
         "description": "Students transition from HTML to interactive programming in Code.org's Game Lab, learning drawing, variables, random numbers, sprites, and text.",
         "lessons": [
           {
-            "id": "e6h914ce",
+            "id": "jbd21kz8",
             "title": "Plotting Shapes & Drawing in Game Lab",
             "type": "project",
             "objective": "Use coordinates and shape functions to draw geometric compositions on the Game Lab canvas.",
@@ -92,7 +88,7 @@
             "notes": ""
           },
           {
-            "id": "yrwikck1",
+            "id": "gz82sgq1",
             "title": "Shapes and Parameters",
             "type": "instruction",
             "objective": "Explain how parameters modify function behavior and adjust shape properties through experimentation.",
@@ -106,7 +102,7 @@
             "notes": ""
           },
           {
-            "id": "u0s2ip5c",
+            "id": "zw6xis65",
             "title": "Variables & Random Numbers",
             "type": "project",
             "objective": "Implement variables and random number generation to create dynamic, non-repetitive program outputs.",
@@ -120,7 +116,7 @@
             "notes": ""
           },
           {
-            "id": "z0vcddg2",
+            "id": "sg52kpzm",
             "title": "Mini-Project: Robot Faces",
             "type": "project",
             "objective": "Create a program that generates unique robot face compositions using variables and randomization.",
@@ -133,7 +129,7 @@
             "notes": ""
           },
           {
-            "id": "p22bmf9j",
+            "id": "8adej9tm",
             "title": "Sprites & Sprite Properties",
             "type": "project",
             "objective": "Create and manipulate sprite objects, modifying properties like position, size, rotation, and visibility.",
@@ -147,7 +143,7 @@
             "notes": ""
           },
           {
-            "id": "cdt661k8",
+            "id": "48x9of7c",
             "title": "Text & Mini-Project: Captioned Scenes",
             "type": "project",
             "objective": "Integrate text display with sprite compositions to create captioned digital scenes that tell a story.",
@@ -160,7 +156,7 @@
             "notes": ""
           },
           {
-            "id": "edyrvn74",
+            "id": "wpul57a5",
             "title": "Draw Loop & Sprite Movement",
             "type": "project",
             "objective": "Explain the draw loop concept and implement continuous sprite movement using velocity and position updates.",
@@ -176,14 +172,14 @@
         ]
       },
       {
-        "id": "mfzupnvr",
+        "id": "06w21atz",
         "title": "Interactive Programming with Game Lab (Part 2)",
         "semester": "Fall",
         "essentialQuestion": "How do conditionals and user input transform a program into a truly interactive experience?",
         "description": "Students advance to conditionals, user input handling, collision detection, and complex sprite movement, building toward full interactive applications.",
         "lessons": [
           {
-            "id": "gk0mapf1",
+            "id": "uq5780z6",
             "title": "Mini-Project: Animation",
             "type": "project",
             "objective": "Create a sprite-based animation using the draw loop, costume changes, and timed sequences.",
@@ -196,7 +192,7 @@
             "notes": ""
           },
           {
-            "id": "0mu7ipt0",
+            "id": "sjvhqdfv",
             "title": "Conditionals & Keyboard Input",
             "type": "project",
             "objective": "Implement conditional statements that respond to keyboard input to control sprite behavior.",
@@ -210,7 +206,7 @@
             "notes": ""
           },
           {
-            "id": "7jw9d9hg",
+            "id": "n73gzp1n",
             "title": "Mouse Input & Interactive Card",
             "type": "project",
             "objective": "Design an interactive greeting card that responds to both mouse and keyboard events using conditional logic.",
@@ -224,7 +220,7 @@
             "notes": ""
           },
           {
-            "id": "3n9d2jxa",
+            "id": "36a2wdn3",
             "title": "Velocity & Collision Detection",
             "type": "project",
             "objective": "Implement velocity-based movement and collision detection between sprites to create realistic interactions.",
@@ -238,7 +234,7 @@
             "notes": ""
           },
           {
-            "id": "zoy5r7ue",
+            "id": "x2jnkp12",
             "title": "Mini-Project: Side Scroller",
             "type": "project",
             "objective": "Build a side-scrolling game incorporating sprite movement, collision detection, and scoring.",
@@ -252,7 +248,7 @@
             "notes": ""
           },
           {
-            "id": "uq0o8bo1",
+            "id": "mko7kqtt",
             "title": "Complex Sprite Movement & Collisions",
             "type": "project",
             "objective": "Implement advanced movement patterns including acceleration, deceleration, and multi-object collision handling.",
@@ -266,7 +262,7 @@
             "notes": ""
           },
           {
-            "id": "eihh73xa",
+            "id": "4bm1c8f1",
             "title": "Mini-Project: Flyer Game",
             "type": "project",
             "objective": "Design and develop a top-down flyer game integrating all Game Lab skills: sprites, conditionals, collisions, and scoring.",
@@ -282,14 +278,14 @@
         ]
       },
       {
-        "id": "p67om2cf",
+        "id": "5jyx4fos",
         "title": "Game Design Project (Semester 1 Capstone)",
         "semester": "Fall",
         "essentialQuestion": "What separates a game that's technically functional from one that's genuinely fun?",
         "description": "Students apply the full game design process to plan, develop, playtest, refine, and present an original game in Game Lab.",
         "lessons": [
           {
-            "id": "mh6po8v1",
+            "id": "p6bk4kly",
             "title": "Functions Introduction",
             "type": "instruction",
             "objective": "Define functions and explain how they promote code organization and reusability.",
@@ -303,7 +299,7 @@
             "notes": ""
           },
           {
-            "id": "st893ibz",
+            "id": "wd7ch2g5",
             "title": "Game Design Process Introduction",
             "type": "instruction",
             "objective": "Describe the stages of the game design process and develop a comprehensive game design document.",
@@ -317,7 +313,7 @@
             "notes": ""
           },
           {
-            "id": "zl3hg5kq",
+            "id": "qeescrz3",
             "title": "Project Game Design – Development Sprint",
             "type": "project",
             "objective": "Independently develop a complete game in Game Lab applying functions, conditionals, collisions, and variables through iterative development.",
@@ -332,7 +328,7 @@
             "notes": ""
           },
           {
-            "id": "fs5t6wv0",
+            "id": "0u2bu1gb",
             "title": "Peer Review & Revision",
             "type": "assessment",
             "objective": "Conduct structured peer reviews using established criteria and implement revisions based on feedback.",
@@ -346,7 +342,7 @@
             "notes": ""
           },
           {
-            "id": "nq4enavh",
+            "id": "uol3g6ur",
             "title": "Game Share Lab & Voting",
             "type": "assessment",
             "objective": "Present completed games, articulate design decisions, and evaluate peer games using criteria-based assessment.",
@@ -361,14 +357,14 @@
         ]
       },
       {
-        "id": "qw88zps0",
+        "id": "4wsj0xtg",
         "title": "Data Representation & Information Systems",
         "semester": "Spring",
         "essentialQuestion": "How does a computer see the world — and what gets lost in translation?",
         "description": "Students explore how computers represent and process information through binary, ASCII, images, and numbers.",
         "lessons": [
           {
-            "id": "ulmasj4t",
+            "id": "bellrjuh",
             "title": "Semester Reflection & Representation Matters",
             "type": "instruction",
             "objective": "Evaluate Semester 1 growth and explain why digital representation systems matter in computing.",
@@ -381,7 +377,7 @@
             "notes": ""
           },
           {
-            "id": "nxgi1y5a",
+            "id": "74aua53v",
             "title": "Patterns and Representation",
             "type": "instruction",
             "objective": "Identify patterns in data and explain how patterns enable efficient representation of information.",
@@ -394,7 +390,7 @@
             "notes": ""
           },
           {
-            "id": "fygqpsg9",
+            "id": "u8w2k6ds",
             "title": "ASCII and Binary Representation",
             "type": "project",
             "objective": "Convert between binary, decimal, and ASCII to demonstrate how computers encode text and numbers.",
@@ -407,7 +403,7 @@
             "notes": ""
           },
           {
-            "id": "h1pf1bj9",
+            "id": "va6wyuxz",
             "title": "Representing Images",
             "type": "project",
             "objective": "Explain how digital images are represented using pixels and binary data, and create a pixel art composition.",
@@ -421,7 +417,7 @@
             "notes": ""
           },
           {
-            "id": "30sm5g3p",
+            "id": "iujj6448",
             "title": "Representing Numbers & Combining Representations",
             "type": "instruction",
             "objective": "Analyze how different data types are combined in computing systems and explain overflow/precision limitations.",
@@ -434,7 +430,7 @@
             "notes": ""
           },
           {
-            "id": "x1a3li5w",
+            "id": "t4zy5yix",
             "title": "Keeping Data Secret",
             "type": "instruction",
             "objective": "Describe basic encryption concepts and demonstrate a simple cipher to encode and decode messages.",
@@ -447,7 +443,7 @@
             "notes": ""
           },
           {
-            "id": "g2qf54bf",
+            "id": "5t3d0rfv",
             "title": "Create a Representation",
             "type": "project",
             "objective": "Design an original representation system for a specific type of information and justify design choices.",
@@ -460,7 +456,7 @@
             "notes": ""
           },
           {
-            "id": "jvsneuko",
+            "id": "0yxlq934",
             "title": "Problem Solving with Data & Structuring Data",
             "type": "project",
             "objective": "Organize raw data into structured formats and use data to solve a defined problem.",
@@ -474,7 +470,7 @@
             "notes": ""
           },
           {
-            "id": "5gircuus",
+            "id": "170oi8i3",
             "title": "Interpreting Data",
             "type": "assessment",
             "objective": "Interpret data visualizations to draw evidence-based conclusions and identify potential biases.",
@@ -489,14 +485,14 @@
         ]
       },
       {
-        "id": "advx4uhw",
+        "id": "qg2dlrhw",
         "title": "Data, AI & Machine Learning",
         "semester": "Spring",
         "essentialQuestion": "When a machine learns from data, who is responsible for what it decides?",
         "description": "Students explore how data drives decisions, learn about automation and machine learning concepts, and complete a recommendation system project.",
         "lessons": [
           {
-            "id": "pp71ko0u",
+            "id": "ktmq5riy",
             "title": "Making Decisions with Data",
             "type": "instruction",
             "objective": "Analyze a dataset to make an evidence-based decision and explain their reasoning.",
@@ -509,7 +505,7 @@
             "notes": ""
           },
           {
-            "id": "zt4hxzvn",
+            "id": "jc3ef93a",
             "title": "Automating Data Decisions",
             "type": "instruction",
             "objective": "Explain how algorithms automate decision-making processes and identify advantages and limitations.",
@@ -523,7 +519,7 @@
             "notes": ""
           },
           {
-            "id": "cjrjj1lc",
+            "id": "yzwnj8jp",
             "title": "Problem Solving with Big Data",
             "type": "instruction",
             "objective": "Describe how large datasets are used to identify trends and solve complex problems across industries.",
@@ -536,7 +532,7 @@
             "notes": ""
           },
           {
-            "id": "g3ujlohf",
+            "id": "sqr3s7k2",
             "title": "Data and Machine Learning",
             "type": "instruction",
             "objective": "Explain how machine learning systems use training data to make predictions and classifications.",
@@ -551,7 +547,7 @@
             "notes": ""
           },
           {
-            "id": "yw5ckk8s",
+            "id": "84uzo9fr",
             "title": "Make a Recommendation Project",
             "type": "project",
             "objective": "Design and develop a data-driven recommendation system that collects, analyzes, and presents personalized suggestions.",
@@ -566,7 +562,7 @@
             "notes": ""
           },
           {
-            "id": "5yhy8rjn",
+            "id": "mrqfcfcy",
             "title": "AI & Machine Learning – Ethical Considerations",
             "type": "assessment",
             "objective": "Evaluate the ethical implications of AI and machine learning, including bias, privacy, and societal impact.",
@@ -582,14 +578,14 @@
         ]
       },
       {
-        "id": "b8ghqi0c",
+        "id": "3w42yzo7",
         "title": "Electricity, Circuits & Physical Computing",
         "semester": "Spring",
         "essentialQuestion": "What happens when code meets the physical world — and a light actually turns on?",
         "description": "Students transition to physical computing, learning electrical fundamentals, circuit design, Ohm's Law, and Arduino programming.",
         "lessons": [
           {
-            "id": "qyd9yw0h",
+            "id": "v4idcizb",
             "title": "Introduction to Electricity & What is a Circuit?",
             "type": "instruction",
             "objective": "Define voltage, current, and resistance and explain how a closed circuit allows electricity to flow.",
@@ -603,7 +599,7 @@
             "notes": ""
           },
           {
-            "id": "snw9w3wl",
+            "id": "xqeiokta",
             "title": "Ohm's Law & PhET Simulation",
             "type": "project",
             "objective": "Apply Ohm's Law (V=IR) to calculate voltage, current, and resistance using the PhET circuit simulator.",
@@ -617,7 +613,7 @@
             "notes": ""
           },
           {
-            "id": "ok72ymqc",
+            "id": "ve4ih2s3",
             "title": "Circuit Research & Circuit Lab",
             "type": "project",
             "objective": "Research circuit types (series/parallel) and construct physical circuits to verify theoretical predictions.",
@@ -631,7 +627,7 @@
             "notes": ""
           },
           {
-            "id": "odfp440y",
+            "id": "na0i37a1",
             "title": "Voltage Relationships & Ohm's Law Quiz",
             "type": "assessment",
             "objective": "Analyze voltage relationships in series and parallel circuits and demonstrate mastery of Ohm's Law.",
@@ -645,7 +641,7 @@
             "notes": ""
           },
           {
-            "id": "bg93cf2e",
+            "id": "yqbtxgma",
             "title": "Arduino Research & LED/Breadboard Introduction",
             "type": "instruction",
             "objective": "Research Arduino microcontrollers, identify hardware components, and construct basic LED circuits on a breadboard.",
@@ -660,7 +656,7 @@
             "notes": ""
           },
           {
-            "id": "shm3zz16",
+            "id": "mi81xm8s",
             "title": "Paper Circuit Project",
             "type": "project",
             "objective": "Design and build a paper circuit that demonstrates understanding of circuit fundamentals.",
@@ -674,7 +670,7 @@
             "notes": ""
           },
           {
-            "id": "ow5z3k8m",
+            "id": "7trfabkq",
             "title": "Intro to Arduino Programming & Blink Projects",
             "type": "project",
             "objective": "Write Arduino code to control LED blinking patterns, applying programming concepts to physical hardware.",
@@ -688,7 +684,7 @@
             "notes": ""
           },
           {
-            "id": "r0rkou6k",
+            "id": "mjmcxovs",
             "title": "Micro Servo & Big Servo",
             "type": "project",
             "objective": "Program servo motors to specific angles using Arduino, demonstrating control of mechanical output through code.",
@@ -702,7 +698,7 @@
             "notes": ""
           },
           {
-            "id": "tk47h1o7",
+            "id": "rsc47c37",
             "title": "Photoresistor & Arduino Quiz",
             "type": "assessment",
             "objective": "Implement a photoresistor sensor to create a light-reactive system and demonstrate understanding of sensor input.",
@@ -716,7 +712,7 @@
             "notes": ""
           },
           {
-            "id": "8fqdttq6",
+            "id": "t1wvdnu7",
             "title": "TinkerCAD Circuit Simulations (RGB LED, Light Show)",
             "type": "project",
             "objective": "Design and simulate advanced Arduino circuits in TinkerCAD, programming RGB LEDs and multi-component systems.",
@@ -732,14 +728,14 @@
         ]
       },
       {
-        "id": "0hteqopz",
+        "id": "l4mczgzu",
         "title": "3D Design & Shark Tank Capstone",
         "semester": "Spring",
         "essentialQuestion": "How do you turn a problem you care about into a product someone would actually buy?",
         "description": "Students learn 3D modeling in TinkerCAD and apply it to an entrepreneurial Shark Tank project — designing products, calculating costs, surveying markets, and pitching to judges.",
         "lessons": [
           {
-            "id": "jopaptm9",
+            "id": "h6jcwny3",
             "title": "TinkerCAD 3D Design Introduction",
             "type": "instruction",
             "objective": "Navigate the TinkerCAD 3D workspace and create basic 3D models using primitive shapes and grouping.",
@@ -752,7 +748,7 @@
             "notes": ""
           },
           {
-            "id": "0gqnlvn6",
+            "id": "36z4se3v",
             "title": "Pobble 3D Design Project",
             "type": "project",
             "objective": "Design a 3D character model applying advanced TinkerCAD techniques including alignment, holes, and custom shapes.",
@@ -765,7 +761,7 @@
             "notes": ""
           },
           {
-            "id": "kjlj37q5",
+            "id": "h6qamjwz",
             "title": "Shark Tank Introduction & Planning",
             "type": "instruction",
             "objective": "Identify a problem worth solving and develop an initial product concept using the design thinking process.",
@@ -778,7 +774,7 @@
             "notes": ""
           },
           {
-            "id": "qr4bxsbv",
+            "id": "rjmka48l",
             "title": "Target Market Research",
             "type": "project",
             "objective": "Research and define target market using demographic data and consumer analysis techniques.",
@@ -791,7 +787,7 @@
             "notes": ""
           },
           {
-            "id": "5yzs2i5w",
+            "id": "8m5449re",
             "title": "Benefits, Features & Production Costs",
             "type": "instruction",
             "objective": "Differentiate product features from benefits and calculate production costs to determine pricing strategy.",
@@ -804,7 +800,7 @@
             "notes": ""
           },
           {
-            "id": "yb6aq0gs",
+            "id": "g8ilczud",
             "title": "Market Survey",
             "type": "project",
             "objective": "Design and conduct a market survey, then analyze results to validate product-market fit.",
@@ -817,7 +813,7 @@
             "notes": ""
           },
           {
-            "id": "tcf7b23j",
+            "id": "c81ho279",
             "title": "Presentation Slides & Website Creation",
             "type": "project",
             "objective": "Create a professional pitch deck and product website that communicate value proposition to potential investors.",
@@ -831,7 +827,7 @@
             "notes": ""
           },
           {
-            "id": "pkk9ttys",
+            "id": "obpe2iq0",
             "title": "3D Product Prototype Design",
             "type": "project",
             "objective": "Design a 3D-printable product prototype in TinkerCAD that demonstrates the product concept.",
@@ -844,7 +840,7 @@
             "notes": ""
           },
           {
-            "id": "cth13m1a",
+            "id": "2q80bh2h",
             "title": "Shark Tank Prototypes & Refinement",
             "type": "project",
             "objective": "Develop, test, and refine physical and digital prototypes through iterative design cycles.",
@@ -858,7 +854,7 @@
             "notes": ""
           },
           {
-            "id": "dmnh15mo",
+            "id": "a7i2u9nv",
             "title": "Shark Tank Presentations",
             "type": "assessment",
             "objective": "Deliver a persuasive product pitch to a panel of judges, defending design, market research, and business model.",
@@ -872,7 +868,7 @@
             "notes": ""
           },
           {
-            "id": "9op96q68",
+            "id": "1y5stizn",
             "title": "TinkerCAD Dreamhouse Project",
             "type": "project",
             "objective": "Design a detailed 3D architectural model in TinkerCAD applying advanced modeling techniques and spatial reasoning.",
