@@ -1,0 +1,668 @@
+{
+  "key": "curriculum-intro-tech",
+  "updatedAt": "2026-08-23T22:19:43.751Z",
+  "device": "Home",
+  "value": {
+    "units": [
+      {
+        "id": "kthpf7z5",
+        "title": "Digital Citizenship & Online Identity",
+        "semester": "Fall",
+        "essentialQuestion": "How does your digital footprint define who you are online and in the future?",
+        "description": "Students explore responsible digital citizenship, online safety, and personal branding. They learn to evaluate online content critically and create a professional digital identity.",
+        "lessons": [
+          {
+            "id": "pq6xy0j9",
+            "title": "Course Introduction & Expectations",
+            "type": "instruction",
+            "objective": "Recall course expectations, class procedures, and technology lab safety rules.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": "",
+            "bellRingers": [
+              "INtro Test 1\n"
+            ]
+          },
+          {
+            "id": "qdhsx4oa",
+            "title": "Amazon Warehouse Virtual Tour",
+            "type": "instruction",
+            "objective": "Describe how technology is used in modern logistics and identify ICT career pathways.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 4.0 – Technology",
+              "ISTE 1.3 – Knowledge Constructor"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "j6tpkscm",
+            "title": "Syllabus & Course Overview",
+            "type": "instruction",
+            "objective": "Summarize the course pathway, grading policies, and expectations for the two-year CTE program.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "nhhklzc5",
+            "title": "Google Interland – Digital Safety",
+            "type": "project",
+            "objective": "Apply strategies for staying safe online by navigating interactive scenarios about phishing, oversharing, and password security.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "y1i94cgh",
+            "title": "Fake Instagram Profile Analysis",
+            "type": "instruction",
+            "objective": "Evaluate fake social media profiles to distinguish credible from deceptive online identities.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "qg9iieij",
+            "title": "Social Sleuth Investigation",
+            "type": "project",
+            "objective": "Analyze digital footprints to determine what personal information is publicly accessible.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "h7lcyjj2",
+            "title": "Google Header Design",
+            "type": "project",
+            "objective": "Design a personalized Google Classroom header representing identity using basic graphic design principles.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 4.0 – Technology",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "wyyry99t",
+        "title": "Digital Portfolios & Personal Branding",
+        "semester": "Fall",
+        "essentialQuestion": "How do you communicate your skills, identity, and goals to an authentic audience?",
+        "description": "Students build and maintain a digital portfolio using Canva and Google Sites to document their learning journey. They set SMART goals and learn to present their work professionally.",
+        "lessons": [
+          {
+            "id": "3us6y2mg",
+            "title": "Canva Header Design",
+            "type": "project",
+            "objective": "Create a professional-quality portfolio header using Canva, applying color theory and typography principles.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 4.0 – Technology",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "rz9bk2q2",
+            "title": "Digital Portfolio Setup",
+            "type": "project",
+            "objective": "Construct a digital portfolio site that organizes work samples, bio, and learning reflections.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 4.0 – Technology",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "t3sazofn",
+            "title": "Choose Your Own Adventure – Planning & Creation",
+            "type": "project",
+            "objective": "Design and develop an interactive choose-your-own-adventure story using hyperlinks and branching logic.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ICT C5.0 – Software Development",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "29be4a2e",
+            "title": "Digital Portfolio Goals (SMART Goals)",
+            "type": "assessment",
+            "objective": "Formulate SMART goals for the semester and articulate them within the digital portfolio.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "bg5vft8x",
+        "title": "Digital Image Editing with Photoshop",
+        "semester": "Fall",
+        "essentialQuestion": "How do digital tools empower us to construct and communicate meaning through images?",
+        "description": "Students develop proficiency in Adobe Photoshop, progressing from basic layer manipulation to advanced compositing techniques.",
+        "lessons": [
+          {
+            "id": "lkvs48mv",
+            "title": "Photoshop Introduction & Interface",
+            "type": "instruction",
+            "objective": "Identify the key tools, panels, and workspace elements of the Photoshop interface.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 4.0 – Technology",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "diw01lly",
+            "title": "Layers Assignment",
+            "type": "project",
+            "objective": "Demonstrate how layers function by composing a multi-layer image with proper ordering and opacity.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "e6smhmeb",
+            "title": "Lasso Tool Tracing & Assignment",
+            "type": "project",
+            "objective": "Apply selection tools to isolate and manipulate image elements with precision.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "i6m07riz",
+            "title": "Digital Collage",
+            "type": "project",
+            "objective": "Create a digital collage by combining multiple image sources, demonstrating layer management and composition.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "vc6ppw7r",
+            "title": "Lasso Leaves Project",
+            "type": "project",
+            "objective": "Apply lasso and selection tools to create a nature-themed composition with extracted elements.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "3s2hupwg",
+            "title": "Digital Filters & Effects",
+            "type": "project",
+            "objective": "Experiment with Photoshop filters to transform images and explain how filters modify pixel data.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "eaxiwvdm",
+            "title": "Combining Images – Meme Creation",
+            "type": "project",
+            "objective": "Combine text and images to create original memes, applying typography and composition skills.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "xyw11w5u",
+            "title": "Digital Citizenship Meme",
+            "type": "project",
+            "objective": "Design a meme that communicates a digital citizenship concept.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "g04yuvzu",
+        "title": "Animated GIFs & Digital Media",
+        "semester": "Fall",
+        "essentialQuestion": "How does motion and timing change how we communicate a message?",
+        "description": "Students create animated GIFs using Photoshop's timeline feature, exploring motion, looping, and digital media concepts.",
+        "lessons": [
+          {
+            "id": "wy1fo7nc",
+            "title": "Animated GIF Introduction",
+            "type": "instruction",
+            "objective": "Explain how frame-based animation creates the illusion of motion in digital media.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "ysjj6bzc",
+            "title": "GIF Creation Project",
+            "type": "project",
+            "objective": "Create an original animated GIF using Photoshop timeline, applying principles of motion and looping.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "1h4ja73r",
+        "title": "Game Design Project (Semester 1 Capstone)",
+        "semester": "Fall",
+        "essentialQuestion": "What makes a game engaging, fair, and worth playing?",
+        "description": "Students apply the full design process to create an original board or digital game, culminating in a class showcase.",
+        "lessons": [
+          {
+            "id": "mpwq7y40",
+            "title": "Game Design Introduction & Process",
+            "type": "instruction",
+            "objective": "Identify the stages of the game design process and understand what makes a game engaging.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "p4xxtbe6",
+            "title": "Game Design Document Creation",
+            "type": "project",
+            "objective": "Develop a comprehensive game design document outlining rules, mechanics, and player experience.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C2.0 – Systems & Software Requirements",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "9soqz34n",
+            "title": "Game Prototype Development",
+            "type": "project",
+            "objective": "Build a playable prototype of the designed game and conduct initial playtesting.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "qrqfcpg9",
+            "title": "Playtest & Revise",
+            "type": "project",
+            "objective": "Conduct structured playtesting sessions, collect feedback, and implement design revisions.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ICT C5.3 – Testing & Debugging",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "qhkchct1",
+            "title": "Game Showcase & Reflection",
+            "type": "assessment",
+            "objective": "Present the completed game to peers, articulate design decisions, and reflect on the design process.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 11.0 – Demonstration",
+              "ICT Anchor 9.0 – Leadership & Teamwork"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "aanqw82v",
+        "title": "Introduction to Programming with Scratch",
+        "semester": "Spring",
+        "essentialQuestion": "How can sequencing and logic allow us to create something from nothing?",
+        "description": "Students learn foundational programming concepts through Scratch: sequences, loops, events, and basic animation.",
+        "lessons": [
+          {
+            "id": "r3um5341",
+            "title": "Scratch Interface & First Program",
+            "type": "instruction",
+            "objective": "Navigate the Scratch interface and create a simple program using sequences and events.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "x9gkzlfk",
+            "title": "Loops & Repetition",
+            "type": "project",
+            "objective": "Implement loops in Scratch programs to create repetitive patterns and efficient code.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "pfvsnbz7",
+            "title": "Events & Interactivity",
+            "type": "project",
+            "objective": "Use event-based programming to create interactive Scratch projects that respond to user input.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "mtl45ysa",
+            "title": "Scratch Animation Project",
+            "type": "project",
+            "objective": "Create an animated story in Scratch demonstrating sequences, loops, and event handling.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ISTE 1.6 – Creative Communicator",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "1n4or9gz",
+        "title": "Animation & Storytelling with Scratch",
+        "semester": "Spring",
+        "essentialQuestion": "How do we use code to tell a story that moves an audience?",
+        "description": "Students combine programming skills with narrative thinking to create animated stories in Scratch, developing both technical and creative abilities.",
+        "lessons": [
+          {
+            "id": "he9dd8zh",
+            "title": "Sprite Costumes & Animation",
+            "type": "instruction",
+            "objective": "Use sprite costumes and timing to create smooth character animations in Scratch.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "t90v8tza",
+            "title": "Scene Design & Backgrounds",
+            "type": "project",
+            "objective": "Design multi-scene Scratch projects with background transitions and environment changes.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "3nkvh17a",
+            "title": "Animated Story Project",
+            "type": "project",
+            "objective": "Develop a multi-scene animated story in Scratch with a clear beginning, middle, and end.",
+            "estimatedDays": 8,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ICT C1.0 – Systems Development Process",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "cixzod73",
+        "title": "Conditionals & Logic in Scratch",
+        "semester": "Spring",
+        "essentialQuestion": "How does a computer make decisions, and how do those decisions shape what a program can do?",
+        "description": "Students explore conditional logic and boolean expressions, applying them to create programs that make decisions and respond to conditions.",
+        "lessons": [
+          {
+            "id": "qlwjgra7",
+            "title": "If/Then & Boolean Logic",
+            "type": "instruction",
+            "objective": "Explain how conditional statements allow programs to make decisions based on conditions.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "zh7lp7nb",
+            "title": "Keyboard & Mouse Conditionals",
+            "type": "project",
+            "objective": "Implement keyboard and mouse input handlers using conditional logic in Scratch.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "2xt5l4ir",
+            "title": "Conditional Mini-Project",
+            "type": "project",
+            "objective": "Create an interactive Scratch project that uses conditionals to create meaningful decision points.",
+            "estimatedDays": 4,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "f6iqfgum",
+        "title": "Advanced Scratch: Variables & Game Design",
+        "semester": "Spring",
+        "essentialQuestion": "How do variables transform a program from static to dynamic?",
+        "description": "Students learn variables, score tracking, and advanced game mechanics, culminating in original game designs.",
+        "lessons": [
+          {
+            "id": "0h0kmise",
+            "title": "Variables Introduction",
+            "type": "instruction",
+            "objective": "Define variables and demonstrate how they store and change data within a program.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "reyo3ect",
+            "title": "Score & Lives Systems",
+            "type": "project",
+            "objective": "Implement score and lives tracking systems using variables in a Scratch game.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "hf6j3jnw",
+            "title": "Advanced Game Development",
+            "type": "project",
+            "objective": "Design and develop a complete arcade-style game in Scratch with variables, conditionals, and collision detection.",
+            "estimatedDays": 8,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ICT C1.0 – Systems Development Process",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "lybjp8k0",
+        "title": "Semester 2 Capstone & Portfolio Showcase",
+        "semester": "Spring",
+        "essentialQuestion": "What have you learned, created, and become this year?",
+        "description": "Students compile their best work, reflect on growth across the year, and showcase their digital portfolio to an authentic audience.",
+        "lessons": [
+          {
+            "id": "q5qwtpxn",
+            "title": "Portfolio Curation & Selection",
+            "type": "project",
+            "objective": "Curate a digital portfolio by selecting and organizing best work samples with written reflections.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT Anchor 11.0 – Demonstration",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "ab9ep7jw",
+            "title": "Portfolio Presentation Preparation",
+            "type": "project",
+            "objective": "Prepare a structured presentation of the digital portfolio for an authentic audience.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT Anchor 2.0 – Communication",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "sht15hub",
+            "title": "Portfolio Showcase Event",
+            "type": "assessment",
+            "objective": "Present the completed digital portfolio to peers, family, and community members, articulating learning growth.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 11.0 – Demonstration",
+              "ICT Anchor 9.0 – Leadership & Teamwork"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "mcvzat2f",
+            "title": "Year-End Reflection",
+            "type": "assessment",
+            "objective": "Write a comprehensive reflection on learning growth, challenges overcome, and goals for next year.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  }
+}
