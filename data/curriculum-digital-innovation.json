@@ -1,0 +1,891 @@
+{
+  "key": "curriculum-digital-innovation",
+  "updatedAt": "2026-08-23T22:19:43.767Z",
+  "device": "Home",
+  "value": {
+    "units": [
+      {
+        "id": "7syciksc",
+        "title": "Problem Solving & Web Development (HTML)",
+        "semester": "Fall",
+        "essentialQuestion": "How does the structure of a webpage reflect the logic of how computers communicate?",
+        "description": "Students transition from Scratch to text-based coding, learning HTML to build structured web pages. They connect prior knowledge of algorithms to web development.",
+        "lessons": [
+          {
+            "id": "qm8j4i33",
+            "title": "Problem Solving Review & Computational Thinking",
+            "type": "instruction",
+            "objective": "Apply decomposition, pattern recognition, abstraction, and algorithmic thinking to solve problems.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": "",
+            "bellRingers": [
+              "TEST DI\n",
+              ""
+            ]
+          },
+          {
+            "id": "u1yqs07y",
+            "title": "HTML Introduction & Structure",
+            "type": "instruction",
+            "objective": "Explain the structure of an HTML document using tags, elements, and the DOM hierarchy.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C7.0 – Web & Online Projects",
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "b3zjo7d5",
+            "title": "HTML Content Elements",
+            "type": "project",
+            "objective": "Create web pages using headings, paragraphs, lists, links, and images.",
+            "estimatedDays": 4,
+            "standards": [
+              "ICT C7.0 – Web & Online Projects",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "wmgi1pgz",
+            "title": "HTML Web Page Project",
+            "type": "project",
+            "objective": "Design and build a multi-page website on a topic of choice using semantic HTML.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C7.0 – Web & Online Projects",
+              "ICT C1.0 – Systems Development Process",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "lm8dko3k",
+        "title": "Interactive Programming with Game Lab (Part 1)",
+        "semester": "Fall",
+        "essentialQuestion": "How do coordinates, shapes, and variables create the building blocks of interactive programs?",
+        "description": "Students transition from HTML to interactive programming in Code.org's Game Lab, learning drawing, variables, random numbers, sprites, and text.",
+        "lessons": [
+          {
+            "id": "e6h914ce",
+            "title": "Plotting Shapes & Drawing in Game Lab",
+            "type": "project",
+            "objective": "Use coordinates and shape functions to draw geometric compositions on the Game Lab canvas.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "yrwikck1",
+            "title": "Shapes and Parameters",
+            "type": "instruction",
+            "objective": "Explain how parameters modify function behavior and adjust shape properties through experimentation.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "u0s2ip5c",
+            "title": "Variables & Random Numbers",
+            "type": "project",
+            "objective": "Implement variables and random number generation to create dynamic, non-repetitive program outputs.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "z0vcddg2",
+            "title": "Mini-Project: Robot Faces",
+            "type": "project",
+            "objective": "Create a program that generates unique robot face compositions using variables and randomization.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "p22bmf9j",
+            "title": "Sprites & Sprite Properties",
+            "type": "project",
+            "objective": "Create and manipulate sprite objects, modifying properties like position, size, rotation, and visibility.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "cdt661k8",
+            "title": "Text & Mini-Project: Captioned Scenes",
+            "type": "project",
+            "objective": "Integrate text display with sprite compositions to create captioned digital scenes that tell a story.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "edyrvn74",
+            "title": "Draw Loop & Sprite Movement",
+            "type": "project",
+            "objective": "Explain the draw loop concept and implement continuous sprite movement using velocity and position updates.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "mfzupnvr",
+        "title": "Interactive Programming with Game Lab (Part 2)",
+        "semester": "Fall",
+        "essentialQuestion": "How do conditionals and user input transform a program into a truly interactive experience?",
+        "description": "Students advance to conditionals, user input handling, collision detection, and complex sprite movement, building toward full interactive applications.",
+        "lessons": [
+          {
+            "id": "gk0mapf1",
+            "title": "Mini-Project: Animation",
+            "type": "project",
+            "objective": "Create a sprite-based animation using the draw loop, costume changes, and timed sequences.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "0mu7ipt0",
+            "title": "Conditionals & Keyboard Input",
+            "type": "project",
+            "objective": "Implement conditional statements that respond to keyboard input to control sprite behavior.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "7jw9d9hg",
+            "title": "Mouse Input & Interactive Card",
+            "type": "project",
+            "objective": "Design an interactive greeting card that responds to both mouse and keyboard events using conditional logic.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "3n9d2jxa",
+            "title": "Velocity & Collision Detection",
+            "type": "project",
+            "objective": "Implement velocity-based movement and collision detection between sprites to create realistic interactions.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "zoy5r7ue",
+            "title": "Mini-Project: Side Scroller",
+            "type": "project",
+            "objective": "Build a side-scrolling game incorporating sprite movement, collision detection, and scoring.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "uq0o8bo1",
+            "title": "Complex Sprite Movement & Collisions",
+            "type": "project",
+            "objective": "Implement advanced movement patterns including acceleration, deceleration, and multi-object collision handling.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "eihh73xa",
+            "title": "Mini-Project: Flyer Game",
+            "type": "project",
+            "objective": "Design and develop a top-down flyer game integrating all Game Lab skills: sprites, conditionals, collisions, and scoring.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "p67om2cf",
+        "title": "Game Design Project (Semester 1 Capstone)",
+        "semester": "Fall",
+        "essentialQuestion": "What separates a game that's technically functional from one that's genuinely fun?",
+        "description": "Students apply the full game design process to plan, develop, playtest, refine, and present an original game in Game Lab.",
+        "lessons": [
+          {
+            "id": "mh6po8v1",
+            "title": "Functions Introduction",
+            "type": "instruction",
+            "objective": "Define functions and explain how they promote code organization and reusability.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ICT C5.2 – Programming Methods",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "st893ibz",
+            "title": "Game Design Process Introduction",
+            "type": "instruction",
+            "objective": "Describe the stages of the game design process and develop a comprehensive game design document.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ICT C2.0 – Systems & Software Requirements",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "zl3hg5kq",
+            "title": "Project Game Design – Development Sprint",
+            "type": "project",
+            "objective": "Independently develop a complete game in Game Lab applying functions, conditionals, collisions, and variables through iterative development.",
+            "estimatedDays": 8,
+            "standards": [
+              "ICT C5.0 – Software Development",
+              "ICT C5.2 – Programming Methods",
+              "ICT C5.3 – Testing & Debugging",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "fs5t6wv0",
+            "title": "Peer Review & Revision",
+            "type": "assessment",
+            "objective": "Conduct structured peer reviews using established criteria and implement revisions based on feedback.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ICT Anchor 9.0 – Leadership & Teamwork",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "nq4enavh",
+            "title": "Game Share Lab & Voting",
+            "type": "assessment",
+            "objective": "Present completed games, articulate design decisions, and evaluate peer games using criteria-based assessment.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 11.0 – Demonstration",
+              "ICT Anchor 9.0 – Leadership & Teamwork"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "qw88zps0",
+        "title": "Data Representation & Information Systems",
+        "semester": "Spring",
+        "essentialQuestion": "How does a computer see the world — and what gets lost in translation?",
+        "description": "Students explore how computers represent and process information through binary, ASCII, images, and numbers.",
+        "lessons": [
+          {
+            "id": "ulmasj4t",
+            "title": "Semester Reflection & Representation Matters",
+            "type": "instruction",
+            "objective": "Evaluate Semester 1 growth and explain why digital representation systems matter in computing.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.1 – Empowered Learner"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "nxgi1y5a",
+            "title": "Patterns and Representation",
+            "type": "instruction",
+            "objective": "Identify patterns in data and explain how patterns enable efficient representation of information.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "fygqpsg9",
+            "title": "ASCII and Binary Representation",
+            "type": "project",
+            "objective": "Convert between binary, decimal, and ASCII to demonstrate how computers encode text and numbers.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "h1pf1bj9",
+            "title": "Representing Images",
+            "type": "project",
+            "objective": "Explain how digital images are represented using pixels and binary data, and create a pixel art composition.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "30sm5g3p",
+            "title": "Representing Numbers & Combining Representations",
+            "type": "instruction",
+            "objective": "Analyze how different data types are combined in computing systems and explain overflow/precision limitations.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "x1a3li5w",
+            "title": "Keeping Data Secret",
+            "type": "instruction",
+            "objective": "Describe basic encryption concepts and demonstrate a simple cipher to encode and decode messages.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "g2qf54bf",
+            "title": "Create a Representation",
+            "type": "project",
+            "objective": "Design an original representation system for a specific type of information and justify design choices.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "jvsneuko",
+            "title": "Problem Solving with Data & Structuring Data",
+            "type": "project",
+            "objective": "Organize raw data into structured formats and use data to solve a defined problem.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C5.1 – Logic & Data Representation",
+              "ICT C8.0 – Databases",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "5gircuus",
+            "title": "Interpreting Data",
+            "type": "assessment",
+            "objective": "Interpret data visualizations to draw evidence-based conclusions and identify potential biases.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT Anchor 5.0 – Problem Solving",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "advx4uhw",
+        "title": "Data, AI & Machine Learning",
+        "semester": "Spring",
+        "essentialQuestion": "When a machine learns from data, who is responsible for what it decides?",
+        "description": "Students explore how data drives decisions, learn about automation and machine learning concepts, and complete a recommendation system project.",
+        "lessons": [
+          {
+            "id": "pp71ko0u",
+            "title": "Making Decisions with Data",
+            "type": "instruction",
+            "objective": "Analyze a dataset to make an evidence-based decision and explain their reasoning.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "zt4hxzvn",
+            "title": "Automating Data Decisions",
+            "type": "instruction",
+            "objective": "Explain how algorithms automate decision-making processes and identify advantages and limitations.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ICT C10.1 – AI Models",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "cjrjj1lc",
+            "title": "Problem Solving with Big Data",
+            "type": "instruction",
+            "objective": "Describe how large datasets are used to identify trends and solve complex problems across industries.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "g3ujlohf",
+            "title": "Data and Machine Learning",
+            "type": "instruction",
+            "objective": "Explain how machine learning systems use training data to make predictions and classifications.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ICT C10.1 – AI Models",
+              "ICT C10.2 – Machine Learning",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "yw5ckk8s",
+            "title": "Make a Recommendation Project",
+            "type": "project",
+            "objective": "Design and develop a data-driven recommendation system that collects, analyzes, and presents personalized suggestions.",
+            "estimatedDays": 6,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ICT C10.2 – Machine Learning",
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "5yhy8rjn",
+            "title": "AI & Machine Learning – Ethical Considerations",
+            "type": "assessment",
+            "objective": "Evaluate the ethical implications of AI and machine learning, including bias, privacy, and societal impact.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C10.0 – Intelligent Computing",
+              "ICT Anchor 8.0 – Ethics & Legal",
+              "ISTE 1.2 – Digital Citizen"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "b8ghqi0c",
+        "title": "Electricity, Circuits & Physical Computing",
+        "semester": "Spring",
+        "essentialQuestion": "What happens when code meets the physical world — and a light actually turns on?",
+        "description": "Students transition to physical computing, learning electrical fundamentals, circuit design, Ohm's Law, and Arduino programming.",
+        "lessons": [
+          {
+            "id": "qyd9yw0h",
+            "title": "Introduction to Electricity & What is a Circuit?",
+            "type": "instruction",
+            "objective": "Define voltage, current, and resistance and explain how a closed circuit allows electricity to flow.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.3 – Input/Processing/Output",
+              "ISTE 1.3 – Knowledge Constructor"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "snw9w3wl",
+            "title": "Ohm's Law & PhET Simulation",
+            "type": "project",
+            "objective": "Apply Ohm's Law (V=IR) to calculate voltage, current, and resistance using the PhET circuit simulator.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.3 – Input/Processing/Output",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "ok72ymqc",
+            "title": "Circuit Research & Circuit Lab",
+            "type": "project",
+            "objective": "Research circuit types (series/parallel) and construct physical circuits to verify theoretical predictions.",
+            "estimatedDays": 4,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.2 – Hardware I/O",
+              "ISTE 1.3 – Knowledge Constructor"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "odfp440y",
+            "title": "Voltage Relationships & Ohm's Law Quiz",
+            "type": "assessment",
+            "objective": "Analyze voltage relationships in series and parallel circuits and demonstrate mastery of Ohm's Law.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.3 – Input/Processing/Output",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "bg93cf2e",
+            "title": "Arduino Research & LED/Breadboard Introduction",
+            "type": "instruction",
+            "objective": "Research Arduino microcontrollers, identify hardware components, and construct basic LED circuits on a breadboard.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.2 – Hardware I/O",
+              "ICT C9.5 – Microcontroller Programming",
+              "ISTE 1.3 – Knowledge Constructor"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "shm3zz16",
+            "title": "Paper Circuit Project",
+            "type": "project",
+            "objective": "Design and build a paper circuit that demonstrates understanding of circuit fundamentals.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C9.1 – Hardware Assembly",
+              "ICT C9.2 – Hardware I/O",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "ow5z3k8m",
+            "title": "Intro to Arduino Programming & Blink Projects",
+            "type": "project",
+            "objective": "Write Arduino code to control LED blinking patterns, applying programming concepts to physical hardware.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT C9.5 – Microcontroller Programming",
+              "ICT C5.0 – Software Development",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "r0rkou6k",
+            "title": "Micro Servo & Big Servo",
+            "type": "project",
+            "objective": "Program servo motors to specific angles using Arduino, demonstrating control of mechanical output through code.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C9.5 – Microcontroller Programming",
+              "ICT C9.3 – Input/Processing/Output",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "tk47h1o7",
+            "title": "Photoresistor & Arduino Quiz",
+            "type": "assessment",
+            "objective": "Implement a photoresistor sensor to create a light-reactive system and demonstrate understanding of sensor input.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C9.5 – Microcontroller Programming",
+              "ICT C9.3 – Input/Processing/Output",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "8fqdttq6",
+            "title": "TinkerCAD Circuit Simulations (RGB LED, Light Show)",
+            "type": "project",
+            "objective": "Design and simulate advanced Arduino circuits in TinkerCAD, programming RGB LEDs and multi-component systems.",
+            "estimatedDays": 4,
+            "standards": [
+              "ICT C9.5 – Microcontroller Programming",
+              "ICT C5.1 – Logic & Data Representation",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "0hteqopz",
+        "title": "3D Design & Shark Tank Capstone",
+        "semester": "Spring",
+        "essentialQuestion": "How do you turn a problem you care about into a product someone would actually buy?",
+        "description": "Students learn 3D modeling in TinkerCAD and apply it to an entrepreneurial Shark Tank project — designing products, calculating costs, surveying markets, and pitching to judges.",
+        "lessons": [
+          {
+            "id": "jopaptm9",
+            "title": "TinkerCAD 3D Design Introduction",
+            "type": "instruction",
+            "objective": "Navigate the TinkerCAD 3D workspace and create basic 3D models using primitive shapes and grouping.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "0gqnlvn6",
+            "title": "Pobble 3D Design Project",
+            "type": "project",
+            "objective": "Design a 3D character model applying advanced TinkerCAD techniques including alignment, holes, and custom shapes.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "kjlj37q5",
+            "title": "Shark Tank Introduction & Planning",
+            "type": "instruction",
+            "objective": "Identify a problem worth solving and develop an initial product concept using the design thinking process.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C2.0 – Systems & Software Requirements",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "qr4bxsbv",
+            "title": "Target Market Research",
+            "type": "project",
+            "objective": "Research and define target market using demographic data and consumer analysis techniques.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C2.0 – Systems & Software Requirements",
+              "ISTE 1.3 – Knowledge Constructor"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "5yzs2i5w",
+            "title": "Benefits, Features & Production Costs",
+            "type": "instruction",
+            "objective": "Differentiate product features from benefits and calculate production costs to determine pricing strategy.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT Anchor 3.0 – Career Planning",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "yb6aq0gs",
+            "title": "Market Survey",
+            "type": "project",
+            "objective": "Design and conduct a market survey, then analyze results to validate product-market fit.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C2.0 – Systems & Software Requirements",
+              "ISTE 1.5 – Computational Thinker"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "tcf7b23j",
+            "title": "Presentation Slides & Website Creation",
+            "type": "project",
+            "objective": "Create a professional pitch deck and product website that communicate value proposition to potential investors.",
+            "estimatedDays": 2,
+            "standards": [
+              "ICT C7.0 – Web & Online Projects",
+              "ICT Anchor 2.0 – Communication",
+              "ISTE 1.6 – Creative Communicator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "pkk9ttys",
+            "title": "3D Product Prototype Design",
+            "type": "project",
+            "objective": "Design a 3D-printable product prototype in TinkerCAD that demonstrates the product concept.",
+            "estimatedDays": 1,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "cth13m1a",
+            "title": "Shark Tank Prototypes & Refinement",
+            "type": "project",
+            "objective": "Develop, test, and refine physical and digital prototypes through iterative design cycles.",
+            "estimatedDays": 4,
+            "standards": [
+              "ICT C1.0 – Systems Development Process",
+              "ICT C5.3 – Testing & Debugging",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "dmnh15mo",
+            "title": "Shark Tank Presentations",
+            "type": "assessment",
+            "objective": "Deliver a persuasive product pitch to a panel of judges, defending design, market research, and business model.",
+            "estimatedDays": 3,
+            "standards": [
+              "ICT Anchor 11.0 – Demonstration",
+              "ICT Anchor 2.0 – Communication",
+              "ISTE 1.7 – Global Collaborator"
+            ],
+            "links": [],
+            "notes": ""
+          },
+          {
+            "id": "9op96q68",
+            "title": "TinkerCAD Dreamhouse Project",
+            "type": "project",
+            "objective": "Design a detailed 3D architectural model in TinkerCAD applying advanced modeling techniques and spatial reasoning.",
+            "estimatedDays": 5,
+            "standards": [
+              "ICT C3.0 – Human-Technology Interfaces",
+              "ISTE 1.4 – Innovative Designer"
+            ],
+            "links": [],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  }
+}
