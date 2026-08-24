@@ -1,6 +1,6 @@
 {
   "key": "curriculum-intro-tech",
-  "updatedAt": "2026-08-23T22:19:43.751Z",
+  "updatedAt": "2026-08-24T03:16:35.657Z",
   "device": "Home",
   "value": {
     "units": [
@@ -38,7 +38,11 @@
               "ISTE 1.3 – Knowledge Constructor"
             ],
             "links": [],
-            "notes": ""
+            "notes": "",
+            "bellRingers": [
+              "New day...",
+              ""
+            ]
           },
           {
             "id": "j6tpkscm",
